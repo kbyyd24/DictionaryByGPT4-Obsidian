@@ -1,79 +1,66 @@
-# TRUE
+# true
 
-当然，我们将会一步步地分析英语单词 "true".
-
-  
-
-**1\. 分析词义**
+### 分析词义
 
   
 
-"True" 是一个形容词，主要有以下几种常见含义：
+"True" 是一个形容词，主要意思是真实的，非虚假的。
 
   
 
-*   真实的，非虚构的： 如 "true story" (真实的故事)
-*   忠实的，忠诚的：如 "true friend" (忠诚的朋友)
-*   准确的，正确的：如 "true prediction" (准确的预测)
+### 列举例句
 
   
 
-**2\. 列举例句**
+1.  Is it true that you're moving to New York? (你真的要搬去纽约吗？)
+2.  It's true that global warming is a serious problem.（全球变暖确实是个严重问题。）
+3.  I knew it was true when I saw it with my own eyes.（当我亲眼所见时，我知道这是真的。）
 
   
 
-*   "This is a true story about a brave man." (这是一个关于一位勇敢的男子的真实故事。)
-*   "She has been a true friend to me." (她一直都是我真诚的朋友。)
-*   "His prediction turned out to be true." (他的预测居然真的准确了。)
+### 词根分析
 
   
 
-**3\. 词根分析**
+"True" 的词根源于古英语 "treowe"，意为忠实。
 
   
 
-"True" 的词根来自于古英语（Old English）的 "trēowe", 意为 "faithful, trustworthy" （忠诚的，值得信赖的）。
+### 词缀分析
 
   
 
-**4\. 词缀分析**
+"True" 是一个原生词，没有词缀。
 
   
 
-"True" 是一个基本的英语单词，没有前缀或者后缀。
+### 发展历史和文化背景
 
   
 
-**5\. 发展历史和文化背景**
+"True" 的含义与用法在文化中有所不同。在西方文化中，"True" 通常用来指示事物的真实性或正确性，而在其他文化中可能具有不同的含义。
 
   
 
-"True" 一词在英语中古英语起源，最早的用法如 "be true to"，意思是忠于，表达一个人的忠诚度和诚实。
+### 单词变形
 
   
 
-**6\. 单词变形**
+名词形态：Truth（真理）  
+副词形态：Truly（真诚地）
 
   
 
-"True" 没有变形版本，但有其对应的副词形式 “truly”（真正地；诚实地）。
+### 记忆辅助
 
   
 
-**7\. 记忆辅助**
+将 "true" 与其他以 "t" 开头的词关联，如 "truth"（真理）和 "trust"（信任），都与真实性和可信度有关。
 
   
 
-"True" 是一个基本的英语单词，可以通过将它和其他形容词比较，例如 "false" (假的) 来帮助记忆。
+### 小故事
 
   
 
-**8\. 小故事**
-
-  
-
-"Jim found a true friend in Mike. Despite their differences, they stayed true to each other." (吉姆在迈克这里找到了真正的朋友。尽管他们有所不同，但他们始终忠诚于彼此。)
-
-  
-
-希望以上的分析可以帮助你理解和记住 "true" 这个单词。
+Tom wanted to find the true meaning of happiness, so he started travelling around the world. (Tom 想找到快乐的真正含义，于是他开始环游世界。)

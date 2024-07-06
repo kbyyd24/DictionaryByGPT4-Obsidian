@@ -1,87 +1,49 @@
-# Mark
+# mark
 
-好的，这是我为你准备的关于 "Mark" 的分析：
-
-  
-
-### 分析词义
+分析词义:  
+"Mark"这个词在英语中拥有丰富的含义，主要包括以下三种：被动词，指给某物做上记号或痕迹，来区分或纪念。例如标记一个地点或者日期等；作名词，意味着标记，符号，或者标志，比如我们常说的分数、标准等；也可作为动词，表示注意、观察等。
 
   
 
-"Mark" 作为名词，有多个含义：
+列举例句：
 
   
 
-1.  标记或痕迹，比如: "Leave no mark" (不留下痕迹）;
-2.  成绩或分数，比如 “Tom got high marks in the test” （汤姆在这次考试中得到了高分）;
-3.  铸币单位，特指德国和斯堪的纳维亚的一种货币单位。
+1.  Mark your calendar for our anniversary. (记在你的日历上我们的周年纪念日。)
+2.  He achieved high marks in the exam. (他在考试中取得高分。)
+3.  Please mark my words, this will happen. (请记住我的话，这将会发生。)
 
   
 
-"Mark" 作为动词，大致的意思就是 "标记" 或 "标明"。如："Mark your name on the paper" （在纸上标记你的名字）。
+词根分析：  
+Mark 是一个由Germanic词根 \*-merk- 演化来的单词，意为记号或边界。
 
   
 
-### 列举例句
+词缀分析：  
+Mark 是基本词形，不含词缀。'-ark'亦在其他单词如"spark", "remark"等等之中出现。
 
   
 
-1.  "You need to mark the correct answer." (你需要标记正确的答案。）
-2.  "The event left a deep mark on him." (这个事件对他产生了深远的影响。)
-3.  "I gave him full marks for his effort." (我全分认可他的努力。)
+发展历史和文化背景：  
+词语"mark"在中世纪早期就被广泛使用，其在历史及文化上的寓意主要是代表所设置的目标，或是注明的标志。
 
   
 
-### 词根分析
+单词变形：  
+Mark作为动词其过去式和过去分词为 "marked"，现在分词为 "marking"。
 
   
 
-"Mark" 这个单词的词根来自于老英语的 "mearc"，意思是 "边界" 或 "标记"。
+单词对应的固定搭配，例如"make a mark"（做标记），"hit the mark"（达到目标），"miss the mark"（偏离目标）等。
 
   
 
-其他由此词根衍生出的单词有： "remark"（评论）,"benchmark" (基准) 等。
+记忆辅助：  
+结合词根、词义、实际用例等要素，通过联想记忆法，将"mark"联想到标记、注意或达到的场景中。
 
   
 
-### 词缀分析
-
-  
-
-"Mark" 这个单词没有词缀。
-
-  
-
-### 发展历史和文化背景
-
-  
-
-"Mark" 这个单词在英语中已使用了多个世纪，最早源自古代的日耳曼语，此后通过老英语进入现代英语。此外，"Mark"在英语中也是一个非常常见的男性名字。
-
-  
-
-### 单词变形
-
-  
-
-作为动词，"Mark" 的过去式和过去分词形式是 "Marked"，现在分词形式是 "Marking"。例如：Marked the assignments (标记了作业）。作为名词, "Mark"的复数形式是 "Marks"。
-
-  
-
-### 记忆辅助
-
-  
-
-考虑到 "Mark" 这个单词的多元含义，你可以通过构建语境，创建相关联的情景来记忆这个单词。例如，想象一个男孩名叫 "Mark"，他乐于在纸上标记或打勾。
-
-  
-
-### 小故事
-
-  
-
-Mark loves to leave his mark everywhere. He marked his name on the tree in the backyard. This mark is a proof of his existence.
-
-  
-
-马克喜欢在所有地方留下他的标记。他在后院的树上标记了他的名字。这个标记是他存在的证明。
+小故事：  
+Look, the little boy marked a big X on the treasure map. Sure enough, we found the treasure at the X mark. It's truly a remarkable day.  
+（看，那个小男孩在寻宝地图上做了一个大大的X标记。果真，我们在X标记的地方找到了宝藏。这真是一个值得纪念的日子。）

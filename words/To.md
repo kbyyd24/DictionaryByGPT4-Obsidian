@@ -1,20 +1,20 @@
-# To
+# to
 
 ### 分析词义
 
   
 
-"To"是英语中常用的介词之一，常常用于表示方向、传递、比较等。例如，“Go to school”其中的"to"表示去学校的方向；"Give it to me"中的"to"表示把东西传给我。
+"To" 是一个非常常见的英语介词，主要被用来表示方向、目标、目的或结果，也常作为不定式动词的标记。
 
   
 
-### 列举例句
+### 列举例句：
 
   
 
-*   I'm going to the supermarket. 我要去超市。
-*   He gave the book to me. 他把书给了我。
-*   I prefer tea to coffee. 我更喜欢茶，而不是咖啡。
+1.  I am going to the store. 我要去商店。
+2.  I need to ask you a question. 我需要向你提一个问题。
+3.  This gift is to you. 这个礼物是给你的。
 
   
 
@@ -22,7 +22,7 @@
 
   
 
-"To"本身是个基词，无词根。
+"To" 是一个简单的单词，没有特别的词根。
 
   
 
@@ -30,7 +30,7 @@
 
   
 
-此外，"To"作为词缀经常在动词前面，以表示无穷动词，“I am going to eat”表示我将要吃东西。
+"To" 是基础词汇，也没有词缀。
 
   
 
@@ -38,7 +38,7 @@
 
   
 
-"To"一词源自古英语的'to'，在古英语中就有表示方向的意思。
+"To" 源自古英语的 "to，tō”，且其在各种欧洲语言中都有类似的表达。
 
   
 
@@ -46,7 +46,7 @@
 
   
 
-"To"本身无变形。但它与其它词组合可以形成很多的搭配，如"look forward to"表示期待，"Listen to"表示听。
+"To" 不具有不同的形态变形。
 
   
 
@@ -54,7 +54,7 @@
 
   
 
-"To"是英文中最常用的单词之一，你可以通过阅读和写作来促进记忆。你也可以通过客厅中的一切事物，形成一种场景，比如：“I go to the sofa. I give the remote control to you.”
+"To" 是基本词汇，使用频率非常高，通过常用的短语和句子进行记忆，比如 "go to", "talk to"。
 
   
 
@@ -62,5 +62,8 @@
 
   
 
-Tom said to his sister, "Give the key to me. I'm going to the store." His sister handed it over without a word.  
-汤姆对他的姐姐说：“把钥匙交给我。我要去商店。”他的姐姐没有说话就把钥匙交给了他。
+David wanted to go to the park to play basketball. He enjoyed the journey to the park, which was full of beautiful views.
+
+  
+
+大卫想去公园打篮球。他喜欢去公园的路程，因为沿途风景优美。

@@ -1,20 +1,24 @@
-# Set
+# set
+
+当然，让我们来详细分析一下 "set" 这个单词。
+
+  
 
 ### 分析词义
 
   
 
-"Set"是一个英文单词，它在不同的上下文环境中有多种词义，比如作为动词时常常表示“设置、设定”或者“固定、放置”的意思，作为名词时意思是“一套、一组”的意思。
+"set" 一词在英语中拥有多重含义，最常见的是作为动词用于指“设置、安排”之意，同样也可以作为名词，表示“一套、一组”。
 
   
 
-例句：
+### 列举例句
 
   
 
-1.  Please set the alarm for 7 a.m. tomorrow.（请为明天早晨7点设置闹钟。）
-2.  He just bought a set of golf clubs.（他刚买了一套高尔夫球杆。）
-3.  The sun sets in the west.（太阳在西边落山。）
+1.  As a verb: "Please set the table for dinner." （请为晚餐摆好餐桌。）
+2.  As a noun: "I bought a set of books." （我购买了一套书。）
+3.  Mixed use: "He set the chess set on the table." （他把棋盘设置在桌子上。）
 
   
 
@@ -22,7 +26,7 @@
 
   
 
-"Set" 的词根来自于古英语的 "sęt(t)an"，意为放置或者站立。在德语和荷兰语中也有相似的单词和含义。
+"set" 这个词在英语中是一个基本词，词根本身就是 "set"。
 
   
 
@@ -30,7 +34,7 @@
 
   
 
-"Set" 本身就是词根，没有前缀和后缀。
+没有词缀。
 
   
 
@@ -38,7 +42,7 @@
 
   
 
-"Set" 是英语中使用最频繁也最丰富的单词之一，词义多变，可以根据语境用作动词、名词、形容词等，且有许多习语和短语与其相关。
+"set" 这个词源自古英语的 "settan"，意为“设定、放置”。
 
   
 
@@ -46,11 +50,12 @@
 
   
 
-"Set"作为动词，其变形为：set（现在时），setting（进行时），set（过去式）, set（过去分词）。
+"set" 的过去式和过去分词都是 "set"，现在分词则变为 "setting"。比如：
 
   
 
-固定搭配有："set up"（建立、设立）, "set out"（开始，着手）等。
+1.  I have set the table. (我已经摆好餐桌了。)
+2.  He is setting the alarm clock. (他正在设定闹钟。)
 
   
 
@@ -58,7 +63,7 @@
 
   
 
-记忆"Set"最好的办法是通过多次在不同情境下观察和使用。熟能生巧。
+可以把 "set" 与一些具体的动作或物件联想在一起，例如： set the alarm clock（设定闹钟）、set the table（摆设餐桌）等。
 
   
 
@@ -66,5 +71,5 @@
 
   
 
-Mary bought a set of expensive china dishes. She carefully set them in the cupboard, afraid of breaking them. When she finished, she sat down, content to just observe her new set.  
-(玛丽买了一套昂贵的瓷餐具。她小心翼翼地将它们放进碗柜，生怕把它们弄破。当她完成这一切后，她坐下来，满足地欣赏着她新买的这套餐具)。
+"Every morning, Tom sets his alarm clock for 7 am. It's his set routine."（汤姆每天早晨都设定闹钟7点响。这是他的固定习惯。）  
+每天早晨，汤姆都会把闹钟设定在早上7点。这是他的日常习惯。

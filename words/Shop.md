@@ -1,91 +1,68 @@
-# Shop
+# shop
 
-**分析词义**
-
-  
-
-"Shop" 主要有两种使用方式，一种是名词，另一种是动词。
+### 分析词义
 
   
 
-作为名词，"shop" 意为商店，一般是指卖商品或提供服务的地方，例如：book shop (书店)。
+"Shop" 最常见的意思是“商店”。此外，它也可以用作动词，表示“购物”。
 
   
 
-作为动词，"shop" 意为购物，是指在商店或 online 平台购买商品，例如：I need to shop for groceries (我需要去买杂货)。
+### 列举例句
 
   
 
-**例句**
+1.  I need to go to the shop to buy some milk.（我需要去商店买些牛奶。）
+2.  This is my favorite shop in the city.（这是我在这个城市中最喜欢的商店。）
+3.  I'm shopping for a new dress for the party.（我在为聚会购买新裙子。）
 
   
 
-1.  I bought this dress at the shop around the corner. (我在拐角处的店里买了这件裙子。)
-    
-      
-    
-2.  On Saturdays, we usually shop for food and other household items. (我们通常在周六购买食品和其他家庭用品。)
-    
-      
-    
-3.  The shop owner is very friendly. (那个商店老板非常友好。)
-    
-      
-    
+### 词根分析
 
   
 
-**词根分析**
+"Shop"来源于古英语"scoppa"，原意为"货摊"。同样的词根我们还可以在"workshop"（工坊）"barbershop"（理发店）中找到。
 
   
 
-"Shop" 这个单词是早期英语的形式 sceoppa 的直接继承者，源于古英语，意为 "a place for trading"。
+### 词缀分析
 
   
 
-**词缀分析**
+"Shop" 未含有词缀。但我们可以使用前后缀形成不同的单词，例如："shopping"（前后缀 -ing 表示动作正在进行）。
 
   
 
-"Shop" 本身没有明显的词缀。
+### 发展历史和文化背景
 
   
 
-**发展历史和文化背景**
+“Shop”一词最早出现在14世纪英格兰，原意为小亭或货摊。随着城市化和零售业的发展，它的含义逐步扩大，现在更普遍地被用来指代各种零售商店或服务商店。
 
   
 
-"Shop" 这个单词一直用来指代营业场所，由古英语词 sceoppa 演变而来。通过历史，"shop" 的意思已经扩展到许多不同类型的销售和服务场所。
+### 单词变形
 
   
 
-**单词变形**
+*   名词复数形态：shops
+*   动词现在分词：shopping
+*   透过时态：shopped
+*   常见搭配：shop for, shopping cart, shop window（购物车、橱窗）
 
   
 
-复数形式：shops
+### 记忆辅助
 
   
 
-过去式和过去分词：shopped
+你可以通过联想"Shop"字形，像一个商店的门，还可以联想相关活动、场合辅助记忆。
 
   
 
-现在分词：shopping
+### 小故事
 
   
 
-**记忆辅助**
-
-  
-
-你可以通过联想此单词的发音 "商乖福" 来记忆，它也和购物有相应的联系，商店里的商品是带给我们生活福祉的。
-
-  
-
-**小故事**
-
-  
-
-Annie loves window-shopping. Every Saturday, she would wander around the shop downtown, just looking at all those beautiful dresses.  
-(安妮喜欢逛街。每个星期六，她都会在市中心的商店附近闲逛，只是看看那些美丽的裙子。)
+Sarah walked into the little shop down the street. She was shopping for a gift for her mother's birthday. （萨拉走进街道下的小店。她正在为母亲的生日购买礼物。）

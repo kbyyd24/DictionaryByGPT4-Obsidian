@@ -1,70 +1,54 @@
-# Wheel
+# wheel
 
-### 分析词义
-
-  
-
-"Wheel"是名词，表示“轮子”，它旨在轮转以推动或启动某物。此外，"wheel"也可以用作动词，表示“旋转”或“转动”。
+**分析词义**  
+"Wheel" 是一个名词，表示“轮子”。它也可以作为动词使用，意思是推动或转动。
 
   
 
-### 列举例句
+**列举例句**
 
   
 
-1.  He fastened the wheel to the axle.（他把轮子固定在轴上。）
-2.  The potter's wheel spun round rapidly. （陶瓷师的轮子快速旋转。）
-3.  She wheeled her bike into the garage. （她把自行车推进车库。）
+1.  The car has four wheels. (这辆车有四个轮子。)
+2.  He wheeled his bike into the garage. (他把自行车推进了车库。)
+3.  The earth wheels around the sun. (地球围绕太阳旋转。)
 
   
 
-### 词根分析
+**词根分析**  
+"Wheel" 这个词在英语中没有明确的词根，它是源自古英语的"weogol"或"hwēol"。
 
   
 
-"Wheel" 来自于古英语 "hweol"，源于原始日耳曼语的 "\*hwehwlan"，进一步追溯，它来自印欧祖语的 "\*kwekwlo-"。并没有直接从词根派生出其它单词。
+**词缀分析**  
+"Wheel"无前后缀，是个基本词汇。
 
   
 
-### 词缀分析
+**发展历史和文化背景**  
+"Wheel" 是一个非常古老的词，它在各种语言中的形式都非常接近，显示出这个概念在人类社会中的重要性。在欧美文化中，"wheel" 还有“运转，旋转"的概念。
 
   
 
-"Wheel" 这个单词没有词缀，是一个单根词。
+**单词变形**
 
   
 
-### 发展历史和文化背景
+*   名词：wheel（轮子）
+*   复数形式：wheels（轮子们）
+*   动词：wheel、wheeled（转动，推动）
+*   形容词：wheeling（轮转的, 滚动的）
 
   
 
-“Wheel” 这个单词反映出了人类的一项重要发明——轮子，它大大改进了交通和运输，是人类历史发展的重要里程碑。在欧美文化中，“reinvent the wheel”（重复发明轮子）这个短语表示无谓地做已经完成或解决的事。
+**记忆辅助**  
+你可以把 "wheel" 关联到你的日常生活中，几乎每个人的生活中都有 "wheel"，比如自行车的轮子，汽车的轮子，等等，通过实物关联记忆，你可以更好地记住它。
 
   
 
-### 单词变形
+**小故事**  
+Tom found an old wooden wheel in the barn. He thought that he could turn it into a table.
 
   
 
-作为名词的复数形式，"wheel" 变为 "wheels"。作动词，“wheel”有不同的时态变化，如过去式和过去分词为“wheeled”，现在分词为 “wheeling”。
-
-  
-
-固定搭配有“steering wheel”（方向盘），“wheel of fortune”（命运之轮）等。
-
-  
-
-### 记忆辅助
-
-  
-
-轮子是我们生活中常见的物品，你可以联想汽车的轮子或者自行车的轮子来帮助记忆这个单词。
-
-  
-
-### 小故事
-
-  
-
-Tom pushed the wheelbarrow, full of fresh vegetables from his garden, back home. On his way, the wheels squeaked cheerfully against the old gravel path.  
-(汤姆推着满载从他花园里新鲜蔬菜的手推车回家。在路上，车轮在老旧的碎石路径上愉快地吱吱作响。)
+(汤姆在谷仓里发现了一个旧木轮。他想把它变成一张桌子。)

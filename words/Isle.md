@@ -1,10 +1,10 @@
-# Isle
+# isle
 
 ### 分析词义
 
   
 
-Isle 是词汇英语的名词, 是“岛屿”或者“小岛”的意思。它常常被用来描述一个被水包围的陆地区域，大小可以大到一个大陆，小到茫茫大海中的一片陆地。
+"Isle" 是英语中的名词，它的意思是“岛屿”。这个词通常用来描述一个较小且通常较为草木茂盛的岛。
 
   
 
@@ -12,9 +12,21 @@ Isle 是词汇英语的名词, 是“岛屿”或者“小岛”的意思。它�
 
   
 
-1.  There is a beautiful isle in the middle of the lake. (湖中央有个美丽的小岛。)
-2.  The British Isles include Great Britain, Ireland, and a number of smaller islands. (英译：英伦三岛包括大不列颠、爱尔兰和其他一些较小的岛屿。)
-3.  The Isle of Man is located in the Irish Sea. (马恩岛位于爱尔兰海。)
+1.  The tropical isle was surrounded by crystal clear water.  
+    热带的小岛周围环绕着清澈的海水。
+    
+      
+    
+2.  They decided to explore the mysterious isle in their summer vacation.  
+    他们决定在暑假探索那个神秘的小岛。
+    
+      
+    
+3.  He owns a private isle off the coast.  
+    他在海岸线以外拥有一个私人小岛。
+    
+      
+    
 
   
 
@@ -22,7 +34,7 @@ Isle 是词汇英语的名词, 是“岛屿”或者“小岛”的意思。它�
 
   
 
-这个词来自装了 "insula" ，源自拉丁语，意为 "island"。其他由此词根派生出来的单词有：islet (小岛)，insular (孤立的，与世界隔离的)，insulate (隔离, 保护) 等。
+"Isle" 一词源自拉丁语词根 "insula"，直译为 "岛"。
 
   
 
@@ -30,7 +42,7 @@ Isle 是词汇英语的名词, 是“岛屿”或者“小岛”的意思。它�
 
   
 
-Isle 在英语中是没有词缀的，它本身就是一个完整的词。
+"Isle" 是单词本身，既无前缀也无后缀。
 
   
 
@@ -38,7 +50,7 @@ Isle 在英语中是没有词缀的，它本身就是一个完整的词。
 
   
 
-原来的英语单词为 "igland"，但在法国词汇影响下变为 "ile"，在英文中录取为 "isle"。
+"Isle" 一词中英文表现形式源自法语，最早的记载是在14世纪，当时以 "ile" 或 "ille" 的形式出现。此后演变成了我们现在所用的 "isle" 形式。
 
   
 
@@ -46,7 +58,7 @@ Isle 在英语中是没有词缀的，它本身就是一个完整的词。
 
   
 
-Isle 没有词性变化，它主要作为名词使用。在做动词时我们会用到"Island". （同义词: 内陆地区变成岛屿）
+"Isle" 为名词，虽然可以有其复数形式 "isles"，但并没有对应的动词、形容词等不同词性变形。
 
   
 
@@ -54,7 +66,7 @@ Isle 没有词性变化，它主要作为名词使用。在做动词时我们会
 
   
 
-可以用 "I see land" 作为记忆提示，因为 "isle" 的发音与 "I'll" 和 "aisle" 相近，而 "I see land" 则帮助 recall 岛屿陆地的意义。
+你可以将 "isle" 联想到 "island"，它们都有“岛屿”的意思，而 "isle" 更通常用于描述较小的或者较为草木茂盛的岛屿。
 
   
 
@@ -62,4 +74,5 @@ Isle 没有词性变化，它主要作为名词使用。在做动词时我们会
 
   
 
-During a sea voyage, a shipwrecked sailor saw a remote isle. With joy, he thought to himself, "I see land!" He swam to the isle, where he survived and was later rescued. (在海上航行期间，一个遭受海难的水手看到了一个偏远的岛。他高兴地对自己说，“我看到陆地了！”他游到了小岛上，在那里生存下来并后来被救。)
+There is a tiny isle in the middle of the tranquil lake, full of vibrant wild flowers and emerald green trees, making it a perfect picnic spot for the citizens during spring.  
+湖中央有一个小岛，遍布着鲜艳的野花和翠绿的树木，使它成为市民春天野餐的完美去处。

@@ -1,51 +1,72 @@
-# Manage
+# manage
 
-**分析词义**  
-"Manage"是一个动词，表示管理, 控制, 经营, 应付, 设法做到等意思。
-
-  
-
-**例句**
+### 分析词义
 
   
 
-1.  I have been entrusted to manage this project. (我被委托来负责这个项目。)
-2.  He managed to finish his homework on time. (他设法按时完成了他的作业。)
-3.  We should learn to manage our time effectively. (我们应该学会有效地管理我们的时间。)
+"Manage"作为动词，其主要含义为“管理”、“处理”、“应对”，常用来指导导、掌控或者运用某事物的过程。
 
   
 
-**词根分析**  
-此单词词根来自于拉丁语 'manus' 意思是“手"， 'agere' 意思是”去做某事“。所以词根意思是"手去做"，也就演化为我们现在理解的manage。
+### 列举例句
 
   
 
-**词缀分析**  
-这个词没有前缀或后缀。
+1.  We have to learn how to manage our time effectively. （我们必须学会如何有效管理我们的时间）
+2.  How do you manage such a large team? （你是如何管理这么大的团队的？）
+3.  She managed to finish the project on time. （她设法按时完成了项目）
 
   
 
-**发展历史和文化背景**  
-在拉丁语中，“manage”与操作、操纵有关，这反映出了在古罗马文化中，一切事务都需要手动完成。由此，我们可以将这个概念和我们对手工力量的赞美联系起来。而在英语中，“manage”则表达了管理和控制的含义。
+### 词根分析
 
   
 
-**单词变形**
+"Manage" 的词根为拉丁词根"-man-", 其主要含义是"手"或者"通过手进行的行为"，常指操作、管理等含义。
 
   
 
-*   名词形式： Manager (经理)
-*   动词过去式和过去分词: managed
-*   现在进行式: managing
-*   可数名词复数形式: managers
+### 词缀分析
 
   
 
-**记忆辅助**  
-你可以想象自己正在管理一项任务或项目，帮助记住 "manage" 这个单词。
+"Manage"的词缀主要包含前缀 "-man-" 以及后缀 "-age"。后缀“-age”通常用于表明名词，代表一个行动或过程。
 
   
 
-**小故事**  
-John was promoted to manage the new department. It was a challenging but fulfilling job, and he enjoyed making big decisions.  
-(约翰被提升为新部门的经理。这项工作虽然具有挑战性，但却令人满足，他很享受可以做出重大决策。)
+### 发展历史和文化背景
+
+  
+
+"Manage"源自于意大利语的"maneggiare"，原意为“处理马”，进而发展为管理、控制的含义。
+
+  
+
+### 单词变形
+
+  
+
+*   名词：Manager （经理）
+*   动词：Managing （管理）
+*   过去式: Managed （管理过）
+*   现在进行时: Managing （正在管理）
+
+  
+
+### 记忆辅助
+
+  
+
+想象一下你是一位优秀的“马术师”，需要驾驭和管理马的行动，像驾驭马一样管理生活和工作，这样就更容易记住“manage”的意思了。
+
+  
+
+### 小故事
+
+  
+
+Mary, a young lady, manages a small café. Busy but happy, she starts each day with a strong and confident smile. "Managing my café is not only work but also a lifestyle," Mary says.
+
+  
+
+(玛丽，一个年轻女子，经营着一个小咖啡馆。每天都忙碌但充满幸福，她每天都以坚定自信的微笑开始。"经营我的咖啡馆不仅仅是工作，也是一种生活方式，"玛丽说。)

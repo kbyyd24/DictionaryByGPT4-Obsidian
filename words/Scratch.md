@@ -1,10 +1,15 @@
-# Scratch
+# scratch
 
 ### 分析词义
 
   
 
-Scratch 是一个英语单词，也是一个计算机编程语言的名称。作为常规英语单词，它的意思是“搔，抓，刮”，也可以指“起跑线”或“初始的，基本的”等含义。作为编程语言，它是麻省理工学院(Life Long Kindergarten Group at the MIT Media Lab)设计的一种面向儿童的编程语言。
+"Scratch" 是英语中的一个单词，主要有两个含义：
+
+  
+
+1.  动词，指用指甲或者尖锐物体在表面刮下痕迹，比如 "The cat scratched me." (猫把我抓伤了。)
+2.  名词，指刮痕或者擦伤，如 "There's a scratch on the car." (车上有一个刮痕。)
 
   
 
@@ -12,9 +17,9 @@ Scratch 是一个英语单词，也是一个计算机编程语言的名称。作
 
   
 
-1.  Don't scratch your insect bites, or they will get worse.（不要抓你的蚊虫叮咬处，否则会更糟糕。）
-2.  He started from scratch and built a successful company.（他白手起家，建立了一家成功的公司。）
-3.  I learned computer programming from Scratch platform.（我从 Scratch 平台学习了计算机编程。）
+1.  我的手被猫**刮伤**了。/ I got a **scratch** from the cat.
+2.  桌子上有一道长长的**划痕**。/ There's a long **scratch** on the table.
+3.  不要**抓**那个疙瘩! / Don't **scratch** that bump!
 
   
 
@@ -22,7 +27,7 @@ Scratch 是一个英语单词，也是一个计算机编程语言的名称。作
 
   
 
-Scratch 这个单词的源自于古英语的 "scracian"，它本身就是一个词根。
+"Scratch" 这个单词并没有太明显的词根。"Scratch" 来自于古英语的 "scracian"，该单词显然是拟声词,类似于刮擦声。
 
   
 
@@ -30,7 +35,7 @@ Scratch 这个单词的源自于古英语的 "scracian"，它本身就是一个�
 
   
 
-Scratch 这个单词没有词缀。
+"Scratch" 这个单词没有词缀。它是一个单根单词。
 
   
 
@@ -38,7 +43,7 @@ Scratch 这个单词没有词缀。
 
   
 
-Scratch 这个单词在英语中有很多含义，但在20世纪，开始被用来指代从零开始的创造。这也就成了编程语言 Scratch 的名字的由来，因为这种互动性编程环境，是专门设计给没有任何编程经验的人，从零开始学习编程。
+“Scratch”来自古英语的“scracian”，这个词源于中古英语的“scrætchen”，大致含义是刮、抓、划破。在过去和现代英语中，该词都广泛用于描述人、动物或尖锐物品在某表面上留下痕迹的动作。它也可以作为名词，描述结果——刮痕或抓痕。
 
   
 
@@ -46,15 +51,14 @@ Scratch 这个单词在英语中有很多含义，但在20世纪，开始被用�
 
   
 
-Scratch 的过去式和过去分词均为 scratched,现在进行时为 scratching。这个词在英语中主要用作动词。
+*   名词复数: scratches
+*   动词三单: scratches
+*   过去式和过去分词: scratched
 
   
 
-### 记忆辅助
-
-  
-
-因为 Scratch 的多种含义，通过实际场景去联想和记忆会很有帮助。如你可以想象一只猫在刮地板，这就是 scratch 的一种意思。你还可以联想到那种从零建立一切的创业故事，那就是 scratch 的另一种意思。
+###记忆辅助  
+形象地想象你的猫正在用它的爪子在你的手臂上"内哄哄"地甩，留下一道道清晰可见的痕迹，把这种情景与"scratch"结合起来，可以帮助你更好地记住这个词。
 
   
 
@@ -62,4 +66,8 @@ Scratch 的过去式和过去分词均为 scratched,现在进行时为 scratchin
 
   
 
-Darren had a dream which he was keen to realise. He determined to start his business from scratch. He learned the programming language, Scratch and developed an educational software for kids. The business turned out to be successful and he was gratified.（Darren有一个他热衷于实现的梦想。他决定白手起家开始他的事业。他学习了编程语言 Scratch，并为儿童开发了一款教育软件。这个生意结果证明是成功的，他感到很满足。）
+Tom遗憾地看着那道划痕在他全新的车上，看起来像是用钥匙刮的。“唉，新车就被**刮**了，早知道我就不把它停在马路边了。”他嘟囔道。
+
+  
+
+Tom遗憾地看着新车上的**刮痕**，像是被钥匙**刮**的。“唉，我早知道不应该把车停在马路边了。”他满是遗憾地说。

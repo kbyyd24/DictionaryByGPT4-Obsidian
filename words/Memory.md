@@ -1,10 +1,10 @@
-# Memory
+# memory
 
 ### 分析词义
 
   
 
-*   **Memory** 的中文含义是“记忆”，它主要指的是人脑或 animal 脑中储存和回忆信息的能力，也常常用来指储存设备（如电脑）的存储容量。
+Memory 是英语标准词汇，指的是人脑中存储过去经验的能力，或者是个体以前的特定知识和经验。同时，Memory 也指计算机存储器。
 
   
 
@@ -12,9 +12,9 @@
 
   
 
-1.  I have a very clear memory of this incident. (我对这件事有非常清晰的记忆。)
-2.  Memory is a significant part of what makes us human. (记忆是构成我们为人之所以的重要部分。)
-3.  This computer has a memory of 8 gigabytes. (这台电脑的内存是8G。)
+1.  My childhood memories are still vivid. (我对童年的记忆依然清晰。)
+2.  Good memory is a great gift. (好的记忆力是一份很好的礼物。)
+3.  The computer has a memory of 16 gigabytes. (该电脑有16千兆字节的内存。）
 
   
 
@@ -22,8 +22,7 @@
 
   
 
-*   **Memory** 来自于 Latin 词根 "memor" ，意思是“记住、记忆”。
-*   例如：memorable (令人难忘的)，memorize (记忆)
+Memory 来自于拉丁词根 'memor'，意为“记住”。由这个词根衍生的其他单词还有 'memorial'（纪念的，纪念碑）和 'memorize'（记住，背诵）。
 
   
 
@@ -31,8 +30,7 @@
 
   
 
-*   **Memory**有后缀 -ory，意思是"与...有关""，常用于形容词和名词。
-*   例如：advisory (咨询的)，sensory (感觉的)，directory (目录，名录)
+Memory 的前缀 'me-' 来自 'memor', 后缀 '-ory' 用于生成名词，表示地点或器官，如 'factory'（工厂），'territory'（领地）。
 
   
 
@@ -40,7 +38,7 @@
 
   
 
-*   英文中的 "Memory" 来自于中世纪的 Latin 单词 "memoria"，源于古早时代人们对于记忆和回忆的象征和重视。
+'Memory' 这个词最初在西方文化中主要被用于描述人类脑中存储和回忆过去经验的能力。随着科技的发展，现在它也常常被用于描述电脑和其他设备的存储能力。
 
   
 
@@ -48,7 +46,8 @@
 
   
 
-*   动词形式：memorize (记住，记忆)，中文翻译：记住，记忆。
+1.  作为名词，Memory 的复数形式是 Memories。例如：I have many fond memories of our time together. (我对我们在一起的时光有许多美好的回忆。)
+2.  'Memorize' 是 Memory 的动词形式，表示记忆。例如，He will need to memorize his lines for the play. (他需要背诵他在剧中的台词。)
 
   
 
@@ -56,7 +55,7 @@
 
   
 
-*   我们可以联想到 "remember" 这个词，都有 "mem" 这个部分，此外 "memo" (备忘录)也是一样，这都有助于记忆 "memory" 这个单词。
+'Mem' 这个音节在许多相关的词汇中都出现了，如 'memo' 和 'memento'，记住这个共同元素便可以更好的记忆这类词汇。
 
   
 
@@ -64,8 +63,4 @@
 
   
 
-Here is a short story: In the depths of her memory, she recalled a sunny summer afternoon. There, she met him for the first time, tall and charming. Her heart missed a beat, a memory etched forever in her mind.
-
-  
-
-下面是一个小故事：在她的记忆深处，她回忆起一个阳光明媚的夏日午后。在那里，她第一次见到了他，高大而迷人。她的心跳了一下，这个记忆永远地铭刻在她的脑海中。
+Alice has an extraordinary memory. She can remember all the little details from years ago. For example, she still recalls the exact taste of the ice cream she had on her 7th birthday. (爱丽丝有着非凡的记忆力。她能记住多年前的所有小细节。例如，她仍然记得自己七岁生日时那个冰淇淋的确切味道。)

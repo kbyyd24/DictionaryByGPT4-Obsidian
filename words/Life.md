@@ -1,10 +1,10 @@
-# Life
+# life
 
 ## 分析词义
 
   
 
-"Life" 是一个英文词，中文意思是"生命"或"生活"。它既可以指代生物的生命状态，也可以描述某人的日常活动或经历。
+Life 是一个名词，英文中的主要含义是生命，生活，和寿命等。这是一个非常泛泛的词，可以用来描述生物体从出生到死亡的整个过程，也可以用来描述个体的日常生活或经历。
 
   
 
@@ -12,9 +12,9 @@
 
   
 
-1.  “Life is a journey filled with unexpected miracles.” （生活是一个充满意想不到奇迹的旅程。）
-2.  “He dedicated his life to scientific research.”（他把一生都献给了科学研究。）
-3.  “The life of a plant is dependent on sunlight and water.”（植物的生命依赖于阳光和水。）
+*   Life is beautiful. (生活是美丽的。)
+*   All life is sacred. (所有的生命都是神圣的。)
+*   He dedicated his life to science. (他把一生都献给了科学。)
 
   
 
@@ -22,11 +22,7 @@
 
   
 
-"Life" 的词根是 "viv" 或 "vit", 意为 "live"。
-
-  
-
-由此词根衍生出其他英文单词如"Survive"（幸存）、"Revive"（复苏）、"Vital"（至关重要的）、"Vitamin"（维他命）等。
+"Life" 这个单词是由古英语词根 "lif" 衍生而来， "lif" 在古英语中意味着 “生存” 或者 “生物”。
 
   
 
@@ -34,7 +30,7 @@
 
   
 
-"Life" 是英文的单词，在此词中并未使用词缀。
+Life 没有前缀和后缀。但是添加后缀 -less 可以形成 lifeless（无生命的），添加后缀 -like 可以形成 lifelike（栩栩如生的）。
 
   
 
@@ -42,7 +38,7 @@
 
   
 
-"Life" 这个词源于古英语 "līf"，在许多欧洲语言中都有相似的词汇。西方文化中，"Life" 常被比喻为 旅程、梦想或大海，以表达生活的波折与不确定性。
+Life 这个单词来源于古英语的 'liƿ'，在中世纪英语中变为'lif'，具有“生命”、“生存”、“生活”或“身体存在”的意义，到了现代英语中，它的意义更加广泛，既可以描述生物体的生存状态，也可以代表个人的生活经历或条件。
 
   
 
@@ -50,14 +46,10 @@
 
   
 
-*   名词：Life（生活）、Lives（生命, 复数形式）
-*   动词：Live（活着）、Lived（过去形式）、Living（现在分词形式）、Lives（第三人称单数形式）
-*   形容词：Alive（活着的），Living（活着的），Lifeful（充满生机的）
-*   副词：Lively（活泼地），Lifelessly（毫无生气地）
-
-  
-
-固定搭配有"Life journey"（生命旅程）、"Life cycle"（生命周期）
+单复数：life (单数)，lives (复数)  
+形容词：life-giving（赋予生命的）  
+副词：N/A  
+动词：N/A
 
   
 
@@ -65,13 +57,16 @@
 
   
 
-"Life" 和 "Live" 两个词都与生活、生命有关，可以联想他们两个一起记忆，同时注意它们的词性（名词和动词）的不同。
+Life 这个单词可以联想到许多关于生活的事物或现象，例如生命的开始和结束，或者一份富有意义的生活，这些都可以帮助记忆这个单词。
 
   
 
-##小故事  
-“On a quiet morning, the city woke up to the hustle and bustle of life. The veins of the city pulsated with the rhythm of the inhabitants’ lives."
+## 小故事
 
   
 
-"在一个宁静的早晨，城市被生活的喧嚣唤醒。城市的脉络伴随着居民们的生活节奏跳动着。"
+John was tired of his city life. He moved to the countryside to start a new life. There, he found that life was simpler, but much happier.
+
+  
+
+约翰厌倦了他的城市生活。他搬到了乡下开始新的生活。在那里，他发现生活更简单，但更幸福。

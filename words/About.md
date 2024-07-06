@@ -1,10 +1,10 @@
-# About
+# about
 
 ### 分析词义
 
   
 
-"About"是一个常用的英文单词，它可以做介词，副词也可以做形容词。作为介词，它主要用来表示关于，对于；围绕；在...周围等。作为副词，它的意思是大约，左右；到处，四处；在附近等。作为形容词，它表示四处的，到处的等。
+"About"是一个常用的英语单词，具有多种含义和用法。通常作为介词使用时，它表示关于（示例："Let's talk about it"打算让我们谈谈它）。作为副词使用时，"about"可以表示几乎（示例："The job is about done." 工作差不多完成了）或在附近（示例："Look about and tell me what you see." 看看周围，告诉我你看到了什么）。
 
   
 
@@ -12,9 +12,9 @@
 
   
 
-1.  I am reading a book about history. (我正在读一本关于历史的书)
-2.  The books are scattered about. (书籍散落在四处)
-3.  It's about 100 miles from here. (离这里大约有100英里)
+1.  "I had a dream about you." 我梦见你了。
+2.  "There are about 100 people in the room." 房间里大约有100人。
+3.  "He walks about with a grand air." 他带着优雅的气质走来走去。
 
   
 
@@ -22,7 +22,7 @@
 
   
 
-"About"源自古英语的“abutan”，'a-' 是一个方向性的词缀，'butan' 是“外，外面”。
+"About"来自古英语"onbutan"，意为“在外部”，最初用于表示“在……之外”。
 
   
 
@@ -30,7 +30,7 @@
 
   
 
-"About"没有明确的词缀，它是一个单纯的词根。
+"About"没有词缀，它是一个单独的词汇。
 
   
 
@@ -38,7 +38,7 @@
 
   
 
-这个单词的应用非常广泛，在很多语境中都能见到。随着时间的推移，这个词开始被用于更多的语境中，词义也变得更加丰富。
+在古英语中，"About"的意思是“在外部”，后来它的意思发展为“关于”、 “在附近”等。
 
   
 
@@ -46,7 +46,7 @@
 
   
 
-"About"本身没有明显的名词、单复数、动词、不同时态、形容词、副词等的变形。常见的固定搭配有"about to"表示即将，"all about"表示关于全部。
+"About"没有变形，因为它是一个副词和介词，这两种词性在英语中通常不会存在变形。
 
   
 
@@ -54,7 +54,7 @@
 
   
 
-“About”的记忆点在于它的多重用法。可以将其与其他单词组合在一起进行记忆，例如"talk about"（谈论），"think about"（想起）等。
+你可以将"About"与其他词组结合起来，如"talk about"和" think about"来帮助记忆。
 
   
 
@@ -62,8 +62,5 @@
 
   
 
-Once upon a time, there was a student who was passionate about language learning. She grabbed every chance to study and practice, making significant progress every day.
-
-  
-
-曾经有一位对语言学习充满热情的学生。她抓住每一个学习和练习的机会，每天都有显著的进步。
+"There was a talking parrot. Everyone was curious about him. 'Who are you?' they asked. 'Just a parrot who loves to chat about everything,' he replied."  
+有一只会说话的鹦鹉。每个人都对它感到好奇。他们问："你是谁？" "只是一只喜欢谈论一切的鹦鹉，"它答道。

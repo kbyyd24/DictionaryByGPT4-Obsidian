@@ -1,10 +1,10 @@
-# Candy
+# candy
 
 ### 分析词义
 
   
 
-"Candy" 是英文的一个名词，中文解释是"糖果"。它用于形容从糖、巧克力或者类似成分制作的甜食。这是一个基本的词汇，非常常见。
+"Candy"是英文中的一个名词，中文的意思是“糖果”。也可用作动词，意思是将一种食物用糖或蜂蜜烧制得甜蜜。
 
   
 
@@ -12,9 +12,9 @@
 
   
 
-1.  "I bought a bag of candy for the kids." - 我给孩子们买了一袋糖果。
-2.  "Halloween is a holiday when many children go trick or treating for candy." - 万圣节是一个节日，许多孩子会装扮起来玩恶作剧，或者去收集糖果。
-3.  "Be careful not to eat too much candy, it's bad for your teeth." - 注意不要吃太多糖果，这对你的牙齿不好。
+1.  I love eating candy, especially chocolate.（我喜欢吃糖果，尤其是巧克力。）
+2.  The little boy is begging his mom to buy him a piece of candy.（小男孩正在乞求他的妈妈给他买一块糖果。）
+3.  I am going to candy the apple slices for the party.（我准备为派对做些糖渍苹果片。）
 
   
 
@@ -22,7 +22,7 @@
 
   
 
-"Candy" 是一词根词汇，这个词本身并无词根词缀的变更，它来源于法文“canditum”。
+"Candy"的词根可能来自于古法文的"can-dei"，意思是“由糖制成的”。
 
   
 
@@ -30,7 +30,7 @@
 
   
 
-"Candy" 并未含有前缀和后缀。
+"Candy"中没有显著的词缀。
 
   
 
@@ -38,7 +38,7 @@
 
   
 
-'Candy' 念做/\[ˈkændi\]/, 它在14世纪的时候进入英语，最初的含义是“可以吃的糖分”。这个词来自于法语词 'sucre candi'，意为糖中的结晶。
+Candy一词来自古法语的"sucre candi"，最初指的是纯白色的砂糖块，后来扩大化用于指所有的糖果。在美国等西方国家，糖果在节日如万圣节、复活节、圣诞节等活动中常被用作礼物或装饰。
 
   
 
@@ -46,7 +46,7 @@
 
   
 
-"Candy" 作为名词，它的复数形式是 "candies"，表达 “许多的糖果”。此外，"candy" 也可以作为动词，意为“使…蜜饯、糖渍”。
+Candy可以作为名词或者动词使用。其形容词形式为"candied"，表示"被糖化、糖渍的"。
 
   
 
@@ -54,7 +54,7 @@
 
   
 
-记住"candy"这个单词的小策略是将其与喜欢的糖果品牌或者类型联系起来，例如，你可能对 "cotton candy"（棉花糖）或 "chocolate candy"（巧克力糖）有特别的记忆，那么就可以用这些来帮助记住"candy"这个单词。
+可以通过下面的小句子来帮助记忆："Can"和"Die"组合起来就是"Candy"，中文意思是“糖果”。你可以这样想：如果没有糖果，我可能活不下去。
 
   
 
@@ -62,4 +62,4 @@
 
   
 
-"Tommy walked into the candy store, his eyes filled with joy at the sight of shelves lined with colorful candy. He selected some of his favorite candies, paid with his pocket money and swiftly exited the store, eager to savor his sweet treats." - 汤米走进糖果店，看到货架上排列着五颜六色的糖果，他的眼里满是喜悦。他挑选了一些他最喜欢的糖果，用他的零花钱付款，然后迅速离开了商店，急切地想要品尝他的甜点。
+Once upon a time, a candy shop opened in our town. As sweet as a dream, it brought great joy to the children. （从前，我们的城市开了一家糖果店。糖果店就像一个甜蜜的梦，给孩子们带来了极大的快乐。）

@@ -1,69 +1,58 @@
-# Grow
+# grow
 
-**分析词义**
-
-  
-
-"Grow"是英语的一个常用动词，主要含义是“增长”或“发展”。此外，它也可以用来表示“种植”，例如：grow plants。
+分析词义：  
+"Grow" 这个单词在英语中的意思是“成长”或者“生长”。它可以用来描述生物的生长，也可以用来描述一些抽象概念的增长或发展，如经济、亲情、理解力等。
 
   
 
-**列举例句**
+列举例句：
 
   
 
-1.  Trees grow quickly in this area.（这个地方的树木生长得很快。）
-2.  The city has grown dramatically over the years.（这个城市在过去几年中发展得非常迅速。）
-3.  She is going to grow tomatoes in her backyard.（她打算在后院种植番茄。）
+1.  The plants grow quickly in the spring. （植物在春天里快速生长。)
+2.  His understanding of the situation began to grow. (他对情况的理解开始增长。)
+3.  Our friendship continued to grow over the years. (我们的友谊随着年岁的增长而不断发展。)
 
   
 
-**词根分析**
+词根分析：  
+"Grow"的词根是古英语的"grōwan"，意思也是“增长、发展”。
 
   
 
-此单词的词根来自古英语的'growan'，意为增加或成长。
+词缀分析：  
+"Grow" 没有附加的词缀。它本身就是一个完整的英语单词。
 
   
 
-**词缀分析**
+发展历史和文化背景：  
+"Grow"源自古英语"grōwan"，这个单词在许多日耳曼语言中都有，如古诺尔斯语的"gróa"，荷兰语的"groeien"等，都持有类似的意思。
 
   
 
-"Grow"没有加词缀。
+单词变形：  
+常见的变形有：
 
   
 
-**发展历史和文化背景**
+*   单数形式："grow"
+*   过去式："grew"
+*   过去分词："grown"
+*   现在分词："growing"
+*   名词形式："growth"
 
   
 
-继承自古英语的'growan'，在中古英语和现代英语中均保留了其原始的含义。
+单词对应的固定搭配、组词有："grow up"（长大），"grow into"（变成，成长为），"grow out of" （从...中发展出来），等。
 
   
 
-**单词形变**
+记忆辅助:  
+你可以把"Grow"联想到你自己或你看到过的任何一种植物在春天快速生长的画面，这会帮助你更好地记住这个单词。
 
   
 
-在不同时态的变化中，“grow” 表现为：grow（现在形式），grew（过去式），grown（过去分词）。
-
-  
-
-**记忆辅助**
-
-  
-
-可以将"Grow"想象成“正在扩大的广告牌（G+Row）”，帮助记忆。
-
-  
-
-**小故事**
-
-  
-
-There is a giant who can make anything grow bigger by just touching it. One day he saw a tiny village, decided he'd help it, and made it grow tremendously within a day! The villagers were shocked when they woke up.
-
-  
-
-有一个巨人，只要触摸任何东西就能使它变大。有一天，他看到一个小村庄，决定帮助它，并在一天之内使它繁荣壮大！村民们醒来时都震惊了。
+小故事：  
+Tom wanted to grow a flower for his mom's birthday. He planted the seed in a pot, watered it every day and watched it grow, full of hope. （汤姆想为他妈妈的生日种一朵花。他在一只花盆里植下了种子，每天都对它浇水，并希望看到它的生长，充满希望。）  
+中文翻译：  
+汤姆想为他妈妈的生日种一朵花。他在一个花盆里种下了种子，每天都浇水，并充满希望地看着它生长。

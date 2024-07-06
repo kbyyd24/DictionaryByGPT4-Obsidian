@@ -1,48 +1,69 @@
-# Finish
+# finish
 
-**词义分析**：  
-"Finish"是个多义词，通常作为动词或名词使用。  
-动词形式通常意指“完成”、“结束”，名词形式则可以表示“结束”、“完成”，也可以表示“最终结果”或“面层处理”。
+**分析词义**
 
   
 
-**例句**：
+"Finish" 是一个常用的、含义多样的英文词汇，它可以做动词使用，意思是“结束、完成”，也可以做名词，意味着“结束，完成，最后”，还有“处置，解决”的意思。
 
   
 
-1.  Finish your breakfast before you go. 在你走之前吃完早餐。
-2.  This is a finish to my dreams. 这是我梦想的终结。
-3.  The finish of the wood was very smooth. 木头的处理面非常光滑。
+**例句**
 
   
 
-**词根分析**：  
-"Finish"来源于拉丁词根 "Finis"，意思是结束或界限。类似的单词还有 "finite"（有限的），"finale"（结局），"define"（定义界限）等。
+1.  We need to finish our work before 6 o' clock. （在6点之前我们需要完成工作。）
+2.  This is the finish line for the marathon. （这是马拉松比赛的终点线。）
+3.  She put a nice finish on the table. （她为这张桌子涂了漂亮的油漆。）
 
   
 
-**词缀分析**：  
-"Finish"的词缀并不特别，它是一个单纯的词根。
+**词根分析**
 
   
 
-**发展历史和文化背景**：  
-"Finish"这个词来自早期的法语"feniss-", 表示结束，也有达到极点的意思。这个法语词根最初源自拉丁语的"finire"。它通常被用来表示完成某个过程或活动。
+"Finish" 来自于北欧老英语的 "fynys"，在法语中为 "finir"，这些都是 "结束" 的意思。
 
   
 
-**单词变形与固定搭配**：  
-动词形式：Finishes（第三人称单数），Finished（过去式和过去分词），Finishing（现在分词）。  
-名词形式：Finishes（复数）。  
-常见搭配中有 "finish off"（结束）,"finish up"（全部用完）等。
+**词缀分析**
 
   
 
-**记忆辅助**：  
-可以使用这个句子来帮助记忆 "I fin(ish) my fish before I leave", 来记住发音和用法。
+"Finish" 词本身没有前缀和后缀，但可以加上前缀 "re-" 来形成 "refinish"，表示“重新完成”，例如涂装家具。
 
   
 
-**小故事**：  
-John had a day full of tasks, but he managed to finish them all before evening. Now he can finally relax and enjoy his dinner.  
-约翰的一天充满了任务，但他设法在晚上之前完成了所有任务。现在他终于可以放松下来，享受他的晚餐了。
+**发展历史和文化背景**
+
+  
+
+"Finish"原是法语，后被英格兰深入民众日常使用中，特指“完成某事”，也被用为错综复杂任务的结束，这是欧美文化对于此词语的主要内涵。
+
+  
+
+**单词变形**
+
+  
+
+"Finished" 是 "finish" 的过去式和过去分词形式，意为“已完成的，结束了的”。"Finishing" 是 "finish"的现在分词形式，可作形容词用来修饰名词，意为“修饰性的”，表示正在完成的意思。 "Finishes" 是 "finish" 的第三人称单数形式。
+
+  
+
+**记忆辅助**
+
+  
+
+你可以将 "finish" 与 "fish" 关联，想象在钓鱼时，当你把鱼钓起来的那一刻，就是你完成任务的一刻。
+
+  
+
+**小故事**
+
+  
+
+Jenny had a big book to finish for her homework. With determination, she started early in the morning and didn't stop until she finished it by the evening. It was a proud finish.
+
+  
+
+詹妮有一本大书需要完成作业。她决心早晨开始，一直工作到晚上才完成。这是一个自豪的结束。

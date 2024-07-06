@@ -1,0 +1,165 @@
+{
+  "main": {
+    "id": "b3ba318c29405fa9",
+    "type": "split",
+    "children": [
+      {
+        "id": "1b43d561184c07de",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c993d953a351c412",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "words/a.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "fd08db3eb44fd08c",
+    "type": "split",
+    "children": [
+      {
+        "id": "8922dd8f3c1c5aeb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "388a7445baaaced1",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "675db54181013ad2",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "97a74d0459ada710",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "1e6afba34e3de362",
+    "type": "split",
+    "children": [
+      {
+        "id": "383201c39b30edf5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0933625bac88c187",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "words/a.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a7b4aec90460179c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "words/a.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c07e27ca8376d729",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "33b6aaa93b98eeb3",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "words/a.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "random-note:Open random note": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "zk-prefixer:Create new unique note": false,
+      "smart-random-note:Open Random Note from Search": false
+    }
+  },
+  "active": "c993d953a351c412",
+  "lastOpenFiles": [
+    "words/a..md",
+    "words/a.md",
+    "words/a.m..md",
+    "words/dictator.md",
+    "words/persevere.md",
+    "words/step.md",
+    "words/great.md",
+    "words/recession.md",
+    "words/Sinis.md",
+    "words/interest.md"
+  ]
+}

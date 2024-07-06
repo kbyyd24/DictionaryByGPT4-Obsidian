@@ -1,10 +1,10 @@
-# Indicate
+# indicate
 
 ### 分析词义
 
   
 
-*   "Indicate" 是一个动词，意为"指示"，"表明"，"指出"等。
+"Indicate" 是一个动词，意思是指示，显示或者表明。也可以用来表达某物象征或者预示着什么。
 
   
 
@@ -12,9 +12,9 @@
 
   
 
-1.  "The red light indicates that the machine is in operation." （红灯表明机器正在运行中。）
-2.  "Please indicate which option you prefer." （请指出你更喜欢哪个选项。）
-3.  "The evidence indicates a need for more stringent checks." （证据表明需要更严格的检查。）
+1.  The sign indicates the right directions to the museum. (这个标志指示去博物馆的正确方向。)
+2.  His behavior indicates that he is not interested in the discussion. (他的行为表明他对这个讨论不感兴趣。)
+3.  Red sky at night often indicates good weather tomorrow. (夜晚的红色天空通常预示着明天天气良好。)
 
   
 
@@ -22,7 +22,7 @@
 
   
 
-*   "Indicate" 的词根是 "dic"，来源于拉丁词"dicere"，意为说，告诉。其他从这个词根衍生出来的单词包括 "dictate" (指示), "predict" (预測), "contradict" (反驳)。
+"Indicate" 的词根来自于拉丁语 "indicare"，含义是指出。
 
   
 
@@ -30,13 +30,7 @@
 
   
 
-*   "Indicate" 的词缀有前缀 "in-" (在...中)，词根 "dic-" (说，告诉)，和后缀 "-ate" 被用于形成动词。
-*   相同词缀的其他单词例如：
-
-  
-
-1.  "In-"：include（包括）、increase（增加）
-2.  "-ate"：state（状态）、generate（生成）
+"Indicate"没有前缀或后缀，完全由词根构成。类似的词包括 "dedicate"（致力于）和 "vindicate"（证明无罪）。
 
   
 
@@ -44,7 +38,7 @@
 
   
 
-*   "Indicate" 来自于拉丁语 "indicatus"，这个词在欧美文化中常常被用来传达一个隐藏的，或者未明确表达的信息。
+"Indicate"来自于中世纪的拉丁文，首次出现在16世纪初，一直延续到现在，被广泛应用在各种文本和口头语言中。
 
   
 
@@ -52,12 +46,7 @@
 
   
 
-*   不变形：最常用形式仍为 "indicate"
-*   区分时态：过去式和过去分词为 "indicated"。现在分词为 "indicating"。
-
-  
-
-固定搭配有："indicate interest" (表现出兴趣)，"indicate a preference for..." (表达对...的偏爱)。
+"Indicates", "Indicated", "Indicating" 分别是 "indicate" 的单复数、过去式、现在分词形式，都有表示、指示的意思。
 
   
 
@@ -65,7 +54,7 @@
 
   
 
-*   你可以将 "indicate" 和 "index finger"（食指）关联起来记忆，因为我们通常用食指指向什么以表示我们要什么或者哪个。
+可以通过联想记忆的方式记住它，例如，当我们在地图上找到一个地方，我们可以说这个地方是 "indicate"（被指示或被标明）的。
 
   
 
@@ -73,5 +62,5 @@
 
   
 
-*   English: "John asked Mark to indicate the house he wanted to buy. Mark pointed to the white house at the end of the street."
-*   中文：约翰请马克指出他想买的房子。马克指向了街道尽头的白房子。
+In an ancient map, there was a red X indicating a lost treasure. (在一张古地图上，有一个红色的X指示着丧失的宝藏。)  
+在一张古地图上，有一个红色的X标示着失落的宝藏。

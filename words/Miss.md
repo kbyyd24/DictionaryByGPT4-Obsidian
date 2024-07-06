@@ -1,14 +1,10 @@
-# Miss
-
-当然，非常乐意帮助您。
-
-  
+# miss
 
 ### 分析词义
 
   
 
-"Miss"这个单词在英语里有不少含义。其一，经常作为对未婚女性的尊称，不论是儿童、少女还是成年女子；其二，用作动词，表示“错过、遗漏”。
+英语单词 "miss" 主要有两个情境：一种做名词用，指未婚女士；另一种是做动词用，主要指错过、漏失。
 
   
 
@@ -16,9 +12,9 @@
 
   
 
-*   Miss Smith is my English teacher. （史密斯小姐是我英文老师。）
-*   I miss the bus this morning. （今天早晨我错过了公交车。）
-*   He felt a pang of loss for the things he would miss. （他为将会错过的东西感到一阵失落。）
+*   Excuse me, Miss, could you tell me the time?（对不起，小姐，你能告诉我现在几点吗？）
+*   She closed her eyes and missed the step.（她闭上了眼睛，错过了那一步）
+*   Don't miss the last bus home. （别错过回家的最后一班公交）
 
   
 
@@ -26,7 +22,7 @@
 
   
 
-"Miss"这个单词的词根来自古英语 "missan"，意思是“解失，离开”。
+Miss 这个词在英语中并没有显著的词根衍生。
 
   
 
@@ -34,7 +30,7 @@
 
   
 
-"Miss"本身是一个单词，并没有词缀。但是可以加上词缀形成新词，如 "misses" "missing"等。
+"Miss" 这个单词在英语中并没有显著的词缀。
 
   
 
@@ -42,15 +38,17 @@
 
   
 
-"Miss"最初的意思是“不在，走远”，后来发展出今天的“错过，盼望，想念”的含义。在日常生活中，对未婚女性往往用"Miss"来称呼。
+"Miss" 最初源自古英语的 "myssan"，意思是失去或者错过，后来，"miss" 在英国被用作对未婚女性的称呼，即我国习惯称呼的“小姐”。
 
   
 
-### 单词变形
+### 单词变形和固定搭配
 
   
 
-"Miss" 可以做动词和名词用，顺序为现在时，过去时，过去分词，现在分词和第三人称单数形式，对应的形式为 miss, missed, missed, missing和misses。
+*   名词：未婚女士（Miss, Misses）
+*   动词：错过（miss, misses, missed, missing）
+*   固定搭配： miss out（错过），miss the point（误解）等。
 
   
 
@@ -58,7 +56,7 @@
 
   
 
-一个小小的技巧，就是将"Miss" 和 "mistake"联系在一起记忆，因为它们都和"错误，错过"这个概念有关。
+在记忆英文单词 "miss" 时，你可以想象一下你一直期待的事件因为某种原因你没能参加，你会非常失落，这种失落的感觉就是 "miss" 的含义。
 
   
 
@@ -66,4 +64,5 @@
 
   
 
-"Miss Brown, a school teacher, every day would not miss the chance to make her students love learning. No one wanted to miss her class."（布朗小姐，一个学校的老师，每天都不会错过让她的学生热爱学习的机会。没有人想要错过她的课程。）
+Today, Miss Green got up late and missed the early bus to work. She was worried but caught the next one with a sigh of relief.  
+今天，格林小姐起床晚了，错过了早班公交去上班。她很担心，但是松了一口气坐上了下一班公交。

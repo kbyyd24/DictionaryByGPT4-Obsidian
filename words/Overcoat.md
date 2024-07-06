@@ -1,83 +1,85 @@
-# Overcoat
+# overcoat
 
-### 分析词义
-
-  
-
-Overcoat是英语中的一个名词，主要指的是大衣，尤其是帮助我们抵御寒冷天气的那种长身外套。
+**词义分析**
 
   
 
-### 列举例句
+"Overcoat"是一个英文名词，指的是一种大衣，通常是长到至少膝盖以上，用于在较冷的天气中穿在其他服装上方的外套。
 
   
 
-1.  He put on his overcoat before going out in the cold.  
-    他在寒冷的天气中外出前穿上了他的大衣。
+**例句**
+
+  
+
+1.  He hung up his overcoat in the closet.  
+    他把大衣挂在衣柜里。（他把大衣挂在衣橱里。）
     
       
     
-2.  The overcoat was beautiful but far too expensive.  
-    这件大衣很美，但价格过于昂贵。
+2.  I usually wear an overcoat when the temperature drops below freezing.  
+    我通常在温度降到冰点以下时穿大衣。（我通常在温度降到冰点以下时，会穿上大衣。）
     
       
     
-3.  She draped her overcoat over a chair and sat down.  
-    她把大衣搭在椅子上然后坐下了。
+3.  She removed her overcoat and sat down at the desk.  
+    她脱下大衣坐在桌子旁。（她脱掉大衣，坐在桌边。）
     
       
     
 
   
 
-### 词根分析
+**词根分析**
 
   
 
-Overcoat包含了两个部分：'over-' 和 'coat'。  
-'over-'在此处作为前缀意为"在...之上"，而'coat'作为主词，意味着"外套"。 "Overcoat"的字面译意即"在上面的外套"。
+"Overcoat"是一个合成词，由"over-"和"coat"构成。"Over-"是一个前缀，表示"上方"或"覆盖"的含义；"coat"是一个基本的英语词汇，意为"外套"。
 
   
 
-例子：overnight (一夜之间), overwork (过度工作)
+此外，与"coat"同根的词有：raincoat（雨衣），jacket（夹克），coatroom（衣帽间）等。
 
   
 
-### 词缀分析
+**词缀分析**
 
   
 
-Overcoat使用了前缀 'over-'和主词 'coat'。同样使用这个前缀的其他单词有overhead (在头顶上), overload (过载).
+"Overcoat"没有明显的词缀，它是由前缀"over-"和词根"coat"组成。我们可以找一些与"over-"前缀有关的词，例如："overcome"（克服），"overflow"（溢出），"oversee"（监督）。
 
   
 
-### 发展历史和文化背景
+**历史和文化背景**
 
   
 
-"Overcoat"一词在英语中大约于17世纪后期开始广泛使用，那时大衣开始成为常见的服装之一。在欧美文化中，overcoat一词经常被用来特指男士穿的长大衣。
+"Overcoat"一词源于18世纪的英国，最初是指“套在其他衣物上面的长大衣”。这种外套设计宽松，能够在寒冷的天气中增加保暖，同时方便穿着者在底层穿着其他服装。
 
   
 
-### 单词变形
+**单词变形及搭配**
 
   
 
-Overcoat是一个名词，没有常见的变形。
+Overcoat是个不可数名词，所以没有明显的单复数变形。词组上可以与颜色，材质等进行搭配，如：a black overcoat（一件黑色的大衣），a wool overcoat（一件羊毛大衣）。
 
   
 
-### 记忆辅助
+**记忆辅助**
 
   
 
-你可以通过熟悉每个部分的意思来记住这个词-"over-"（在......上面）和"coat"（外套）-这就变成了"在上面的外套"，非常直观。
+你可以将"overcoat"这个词想象成“覆盖在其他衣物上面的大衣”，"over-"就是"覆盖”的含义， "coat"就是"大衣"。
 
   
 
-### 小故事
+**小故事**
 
   
 
-John was shivering in the chilly wind, he quickly put on his overcoat, it immediately kept the cold out and he sighed in relief.  
-约翰在寒风中颤抖，他快速穿上了他的大衣，让他立即抵挡住了寒冷，他松了一口气。
+"Tom hurriedly put on his overcoat and rushed out of the house into the snowing street. He couldn't be late for his date."
+
+  
+
+汤姆匆忙地穿上大衣，冲出房子到雪中的街道。他不能迟到，他有约会。

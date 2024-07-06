@@ -1,75 +1,44 @@
-# Baby
+# baby
 
-### 单词分析
-
-  
-
-**单词：** Baby
+**分析词义**  
+"Baby" 在英文中一般愉快承载两种主要的含义。首先，最直接常见的含义就是指"婴儿"或"新生儿"。其次，"baby" 也经常用作爱人、另一半的昵称或者悦耳的称呼。
 
   
 
-### 词义解析
+**列举例句**
 
   
 
-"Baby"作为名词，代表婴儿、幼儿，是指在出生后到学步之前的人。除此之外，"Baby"也可以用来作为一个称呼，指代心爱的人，比如在情侣或夫妻之间通常用作温馨而甜蜜的昵称。
+1.  The woman is caring for her baby. (那个女人正在照顾她的婴儿。)
+2.  Hey baby, I miss you. (嘿，宝贝，我想你。)
+3.  She's my baby sister. (她是我的小妹妹。)
 
   
 
-### 例句
+**词根分析**  
+"Baby" 的词根来自于早期中世纪的英语，原形为 "baban"，并没有其它的直接衍生词。
 
   
 
-1.  She cradled the baby in her arms. 她在怀里抱着婴儿。
-2.  Our baby is learning to walk. 我们的婴儿正在学走路。
-3.  He always calls me "baby". 他总是叫我“宝贝”。
+**词缀分析**  
+"Baby" 是一个个纯粹的单词，并没有词缀。
 
   
 
-### 词根分析
+**发展历史和文化背景**  
+"Baby" 是指新出生到学步之间的小孩。这个单词在14世纪中期进入英语，可能源于早期类似"babe"的音译形式，或者像 "baba" 这样的小孩学语声音。
 
   
 
-"Baby"这个词的词根是"babe"，来源于中古英语，也和其他诸如"bairn"的类似单词有关联，意为"婴儿"。
+**单词变形**  
+名词形式为 baby (单数) 和 babies (复数)。动词形式是 baby (第三人称单数形式为 babies)。形容词形式为 babyish (孩子气的)。
 
   
 
-### 词缀分析
+**记忆辅助**  
+你可以想象一个婴儿的形象，用其形象和动作帮助你记忆这个单词。
 
   
 
-"Baby"这个词没有前后缀，是一个单根词。
-
-  
-
-### 发展历史和文化背景
-
-  
-
-"Baby"这个词起源于14世纪的英国，最初的用法是对新生儿的称呼。与此同时，这个词也可以用来称呼年纪较小的人，或者用作昵称表示亲昵和爱抚。
-
-  
-
-### 单词变形
-
-  
-
-*   名词单数形式：Baby \[宝贝/婴儿\]
-*   名词复数形式：Babies \[宝贝们/婴儿们\]
-
-  
-
-### 记忆辅助
-
-  
-
-可以通过联想的方式帮助记忆，以"b"开头，可以想象"Baby"的形状成一个扁平的"b"，就像一个躺在摇篮中的婴儿。
-
-  
-
-### 小故事
-
-  
-
-The baby in the cradle gurgled happily, his little hands reaching for the colorful mobile above. His mother sang a soft lullaby, her gentle voice filling the nursery.  
-摇篮中的婴儿开心地咯咯笑着，他的小手伸向上面的彩色移动挂饰。他的妈妈温柔地唱着摇篮曲，她的声音充满了婴儿房。
+**小故事**  
+Jane was holding her baby girl, looking into her deep blue eyes. She whispered, "My cute little baby." (简正握着她的女婴，看着她深蓝色的眼睛。她轻声说："我的可爱小婴儿。")

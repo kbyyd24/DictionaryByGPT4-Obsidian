@@ -1,10 +1,10 @@
-# Stadium
+# stadium
 
 ### 分析词义
 
   
 
-"Stadium"是英语中的一个名词，意思是“体育场”，或者更广义的讲是“大型公众活动场所”。
+"Stadium"是一个英语名词，意思是"体育场"，一般指用于足球、田径等大型体育赛事的场地。
 
   
 
@@ -12,9 +12,9 @@
 
   
 
-1.  Rugby matches are held at the city's stadium.（城市的体育场举行橄榄球比赛。）
-2.  The concert will take place at the Olympic Stadium.（音乐会将在奥林匹克体育场举行。）
-3.  The new stadium can accommodate 10,000 spectators.（新的体育场可以容纳10,000名观众。）
+1.  The football match will be held in the stadium.（足球比赛将在体育场举行。）
+2.  The stadium was packed with cheering fans.（体育场中挤满了欢呼的球迷。）
+3.  The new stadium can accommodate 50,000 spectators.（这个新的体育场可以容纳5万名观众。）
 
   
 
@@ -22,7 +22,7 @@
 
   
 
-"Stadium"源自于拉丁词根"Stad-", 是长度的单位，体育竞赛的场所，也由此词根衍生出来。
+"Stadium"这个词源自拉丁语"stadium"，又来自古希腊语"stadion"，意思是"赛道"，因此与运动和比赛场地有关。
 
   
 
@@ -30,7 +30,7 @@
 
   
 
-"Stadium"没有词缀，全体单词都是词根。
+"Stadium" 没有特定的词缀，可作为词根参与构词，如"stadiums"，表示多个体育场。
 
   
 
@@ -38,7 +38,7 @@
 
   
 
-"Stadium"这个词最初源自古希腊语，“渴望进行体育比赛的地方”。在古希腊文化中，体育运动尤其是奥林匹克运动会，是非常重要的。
+"Stadium"一词最初来自古希腊，旨在描述古代希腊奥林匹克运动会上的比赛跑道。随着时间的推移，其定义已扩大，用来指代任何大型体育赛事或音乐会的场地。
 
   
 
@@ -46,8 +46,7 @@
 
   
 
-*   常见的名词：stadiums(体育场，复数)
-*   固定搭配有：Olympic stadium（奥林匹克体育场），football stadium（足球场）等。
+单词"stadium"的复数形式为"stadiums"或"stadia"，都表示"体育场"的意思。
 
   
 
@@ -55,7 +54,7 @@
 
   
 
-把 "Stadium" 与 "Study"（学习）关联记忆，想象你在一个充满人们阅读书籍的大型体育场（study-adium）里学习。
+可以将"stadium"与常在体育场进行的活动（比如足球比赛或者音乐会）关联起来，帮助记忆；或者与它的近音词"study"联想，好像在体育场里"学习"运动。
 
   
 
@@ -63,5 +62,8 @@
 
   
 
-The little boy stepped into the stadium for the first time, his eyes wide with wonder. The huge field, rows of seats, lights brighter than stars, everything was swelling his heart with excitement.  
-（小男孩第一次走进体育场，大眼睛充满惊奇。巨大的球场、一排排座位、比星星还亮的灯光，一切都让他的心充满兴奋。）
+每年的夏天，John和他的朋友们都会去stadium看棒球比赛。他们带着小便当，热烈的欢呼，享受着球赛的热烈和激动。
+
+  
+
+每年的夏天，John和他的朋友们都会去体育场看棒球比赛。他们带着小便当，热烈的欢呼，享受着球赛的热烈和激动。

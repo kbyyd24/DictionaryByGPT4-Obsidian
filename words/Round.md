@@ -1,75 +1,73 @@
-# Round
+# round
 
-### 分析词义
-
-  
-
-"Round"是一个非常常用的英语单词，在不同的上下文中可能有不同的含义。它可以被运用为形容词、副词、动词，甚至名词。
+## 单词分析：round
 
   
 
-*   作为形容词，"round" 最常见的含义是“圆形的”或“球形的”。 如 "The earth is round."（地球是圆的）。
-*   作为副词，“round” 可用来描述动作的方式，意为“周围地”或“循环地”。 比如 "She looked round the room."（她环顾了整个房间）。
-*   作为动词，"round" 的含义可以是“走到…之前”或者“绕过…而行”。例如： "We rounded the corner and saw the school."（我们绕过街角，看见了学校）。
-*   作为名词，“round” 可以是指“一轮”、“一回合”、“一场（比赛）”，如 "He's gone out for a round of golf."（他出去打一场高尔夫了）。
+### 词义：
 
   
 
-### 列举例句
+“Round”这个单词在英文中有多个意义。首要的，它可以作为形容词，意思是形状圆的，圆形的。而当它作为动词使用时，往往意味着围绕或者环绕。另外，“round”还有一个意思是四舍五入。
 
   
 
-1.  "The earth is round."（地球是圆的）。
-2.  "She is going round the world."（她正在环游世界）。
-3.  "They rounded up the lost sheep."（他们将迷路的羊聚集起来）。
-4.  "He ordered another round of drinks."（他再点了一轮酒）。
+### 例句：
 
   
 
-### 词根分析
+1.  He has a round face.（他有一张圆脸。）
+2.  The earth revolves round the sun.（地球绕太阳旋转。）
+3.  Round off the number to the nearest whole number. （把数字四舍五入到最接近的整数。）
 
   
 
-"Round" 可以追溯到老英语的 "rūne"（意思是：行谈、讨论、密谈），另外，也和斯堪的纳维亚语的 "rund"（意思是：圆的）有关。
+### 词根分析：
 
   
 
-### 词缀分析
+“Round”的来源是来自于古英语的"rūnd"，并且与荷兰语的"rond"和德语的"rund"有关。这来自于古日耳曼语" hrundaz" ，意为“圆”。
 
   
 
-"Round" 是个基础单词，没有太多的词缀变化。
+### 词缀分析：
 
   
 
-### 发展历史和文化背景
+“Round”在这里是一个基础词汇，它没有词缀，但是前缀或后缀可以加在其上以创建新的单词。比如，加上后缀“-ness”可以得到“roundness”（圆度），前缀 “sur-”可以得到“surround”（环绕）。
 
   
 
-"Round" 是一个非常基础的单词，它的使用范围很广，涵盖了许多概念和想法。从形状到位置，从动作到时间，"round" 都可以使用。
+### 发展历史和文化背景：
 
   
 
-### 单词变形
+“Round”的词源的具体年代由来已久，可以追溯到公元前6世纪的原始日耳曼语。事实上，在很多欧洲语言中都有与"round"相似的单词。
 
   
 
-*   名词复数：rounds（轮次）
-*   动词现在分词：rounding（正在围绕）
-*   动词过去式和过去分词：rounded（围绕过）
+### 单词变形：
 
   
 
-### 记忆辅助
+1.  名词：round（回合，轮次）
+2.  动词：round off/up/down（四舍五入）, round out（做足，使圆满）
+3.  形容词：round（圆的），rounded（圆形的）
+4.  副词：roundly（全面地，彻底地）
 
   
 
-"Round" 的发音和拼写都非常简单， 记忆的时候可以联想到“圆圈”，因为它和“圆圈”在许多方面都有相似的含义。
+### 记忆辅助：
 
   
 
-### 小故事
+想象一个圆形的球，它就是“round”。当你喊出“round”时，球开始在你的周围旋转，这样你就可以记住“round”的意思了。
 
   
 
-There is a round table in my room. Around the round table, there are four chairs where I often have a round of discussions with my friends. (我的房间里有一个圆形的桌子。围绕着圆桌旁边，有四把椅子，我经常和我的朋友们进行一轮讨论。)
+### 小故事：
+
+  
+
+Tom has a round ball that he loves very much. One day the round ball rolled out of the house and carried Tom to start a roundtrip around the world.  
+（汤姆有一个他非常喜欢的圆形的球。一天，这个圆球从房子里滚了出去，带着汤姆开始了环游世界的旅行。）

@@ -1,10 +1,10 @@
-# Oxygen
+# oxygen
 
 ### 分析词义
 
   
 
-"Oxygen" 是一个名词，中文为"氧气"。它在地壳中非常丰富，并且在生态环境中也是必需的。所有的哺乳动物都需要吸入氧气进行呼吸。
+"Oxygen"是指二氧化碳，我们呼吸的空气中含有21%的氧气，它是我们生存的基石，也在其他生命形式中起着关键作用。
 
   
 
@@ -12,12 +12,9 @@
 
   
 
-1.  "Without an adequate supply of oxygen, humans cannot survive."  
-    （没有足够的氧气，人类无法生存。）
-2.  "Oxygen and hydrogen combine to form water."  
-    （氧和氢结合形成水。）
-3.  "Oxygen levels in the lake have been steadily decreasing."  
-    （湖里的氧气含量一直在稳步下降。）
+1.  "Without oxygen, we wouldn't be able to survive." 如果没有氧气，我们无法生存。
+2.  "The concentration of oxygen in the air is 21%." 空气中的氧气浓度为21%。
+3.  "Oxygen is very needed for patients during surgery." 手术期间，患者非常需要氧气。
 
   
 
@@ -25,7 +22,7 @@
 
   
 
-"Oxygen"的词根来自于古希腊词"oxy",表示的是"酸的"或"锐利的"，而后缀"-gen" 的意思是 "产生"。
+"Oxygen"来自于古希腊的词根"oxy-", 表示尖锐或酸，"-gen"表示产生。这个词最初是被认为产生酸的元素。
 
   
 
@@ -33,7 +30,7 @@
 
   
 
-"Oxygen" 不包括词缀，它为一个完整的单词。
+在"Oxygen"这个单词中没有词缀。
 
   
 
@@ -41,7 +38,7 @@
 
   
 
-"Oxygen" 这个词是由法国化学家安托万·拉瓦锡在18世纪末引入的，他是在研究燃烧过程中发现了氧气的。
+"Oxygen"首次发现于18世纪，其具有生命sustaining的质量给它起了名。就我们现在对氧的认知而言，它并不直接产生酸，但它在许多化学反应中和其他元素结合生成化合物，其中一些是酸。
 
   
 
@@ -49,7 +46,7 @@
 
   
 
-因为 "oxygen" 本身就是名词，所以没有变形词。而"氧化"，"氧气"是其常见的固定搭配。
+"Oxygen" 是个名词，没有变形。它可以搭配其他单词形成新的词组，例如 "oxygen tank" （氧气罐）或 "oxygen mask" （氧气面罩）。
 
   
 
@@ -57,7 +54,7 @@
 
   
 
-将 "Oxygen" 与我们每天呼吸的空气联系起来，可以帮助记住它。你也可以把它和"水"联系起来，因为每个水分子H2O都包含一个氧原子。
+可以通过这么一个简单的故事来记忆：你在登山，山的高度让你感到缺氧, 此刻你非常需要氧气，所以你打开你的 "oxygen tank" （氧气罐）。这样，你就会记得 "oxygen"。
 
   
 
@@ -65,5 +62,8 @@
 
   
 
-There was an alien who lived in a galaxy where there was no oxygen. He came to Earth and was amazed because Earth beings could breathe and harness the energy inside a gas called "Oxygen". His life changed dramatically since then.  
-(在一个没有氧气的银河系里，有一只外星人。他来到地球后惊异于地球生物能够呼吸并利用一种名叫“Oxygen”的气体中的能量。自那时起，他的生活发生了翻天覆地的变化。)
+"Peter was climbing a mountain. The further he went, the shorter his breath became. He reached for his oxygen tank. How wonderful, the oxygen was!"
+
+  
+
+"彼特正在爬山。他越往上走，呼吸就越短促。他伸手去拿他的氧气罐。多么美妙，氧气就是这么重要！"

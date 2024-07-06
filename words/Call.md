@@ -1,74 +1,72 @@
-# Call
+# call
 
-好的，我们来看一下 "Call" 这个英语单词。
-
-  
-
-### 分析词义
+## 分析词义
 
   
 
-"Call" 在英语中主要有两种含义：一是作为动词，表示“打电话”、“叫唤”，二是作为名词，表示“电话”，“呼唤”。
+"Call" 主要有两种常见含义，一是作为动词时表示“叫唤，呼叫”，二是作为名词表示“电话，电话通话”。
 
   
 
-### 列举例句
+## 列举例句
 
   
 
-1.  Give me a call when you arrive.（你到了给我打个电话。）
-2.  I heard a call for help.（我听到了请求帮忙的呼喊。）
-3.  I have an important business call to make.（我有一个重要的商务电话要打。）
+*   Don't call me at work. (在工作时间请别打电话给我。)
+*   I need to call the doctor. (我需要打电话给医生。)
+*   She received a call from her lawyer. (她接到了她的律师的电话。)
 
   
 
-### 词根分析
+## 词根分析
 
   
 
-"Call" 这个单词的词根来自于古英语的 "ceallian"，表示"大声喊叫"。由此词根衍生的其他单词有：caller（打电话的人或主叫者）、call-in（电话参与）等。
+"Call" 无词根，是一个单独的词。
 
   
 
-### 词缀分析
+## 词缀分析
 
   
 
-"Call" 是一个没有词缀的简单词汇。
+“Call” 无前后缀，是一个单独的词。
 
   
 
-### 发展历史和文化背景
+## 发展历史和文化背景
 
   
 
-这个单词源于早期人们需要远距离交流的时候，大声叫喊以引起别人的注意，随着电话的出现，它又增加了打电话的含义。在美国文化中，“给我打个电话”常用来表示想持续保持联系的意愿。
+“Call”是一个具有多个意思和用途的单词，它起源于古英语的“ceallian”，这也解释了它的基本含义“大声说话或喊叫”，随着时间的推移，它的含义不断扩展。
 
   
 
-### 单词变形
+## 单词变形
 
   
 
-*   名词：Call
-*   动词：Call/Called/Calling
-*   形容词：如无
-*   副词：如无  
-    固定搭配有：give a call（打电话），make a call（打电话）
+*   名词-单数：call
+*   名词-复数：calls
+*   动词-现在时：call
+*   动词-过去时：called
+*   动词-过去分词：called
+*   动词-现在分词：calling
+*   名词对应的形容词：callable
+*   名词对应的副词：n/a
 
   
 
-### 记忆辅助
+## 记忆辅助
 
   
 
-你可以想象一个你需要联系的人，你用电话大声叫唤他，以此来记忆"Call" 这个词汇。
+让我们来记忆一下这个词，你可以想象一下自己正在打电话，然后悄悄地告诉自己这是一个"call"。
 
   
 
-### 小故事
+## 小故事
 
   
 
-Tom needed to call his friend to remind him of the meeting tonight. （Tom需要打电话提醒他的朋友，今晚有个会议。）  
-汤姆需要给他的朋友打电话，提醒他今晚有个会议。
+John received a call from his missing friend after years. It was a moment full of surprise and happiness. (约翰在多年后接到了他失踪的朋友的电话。这是一个充满惊喜和快乐的时刻。)

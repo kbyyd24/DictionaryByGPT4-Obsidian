@@ -1,57 +1,69 @@
-# Harbour
+# harbour
 
-当然，我很愿意帮助您理解和记住英语单词"Harbour"。
-
-  
-
-**词义分析**  
-"Harbour"是英语单词，它的意思是"港口"。这是一个地点，船只可以在此停泊，装卸货物或者乘客可以上下船。它同时也可以作为动词使用，表示心中怀有（感情或者想法），尤其是一些不好的思想或感情。
+### 分析词义
 
   
 
-**例句**
+英文单词“harbour”在美式英语中通常拼写为“harbor”，是一个名词，也可以作为一个动词。作为名词，它表示一个自然或人工建造的水域，船只可以在此停靠、装卸货物或者避风。作为动词，它可以表示保护、藏匿或怀有（某种思想、感觉、意图、计划等）。
 
   
 
-1.  Sydney is a bustling city with a large harbour. (悉尼是个繁忙的城市，拥有一个大港口。)
-2.  He harbours a grudge against his boss. (他对他的老板怀有怨恨。)
-3.  The small town is an excellent natural harbour. (这个小镇是一个极好的天然港口。)
+### 列举例句
 
   
 
-**词根分析**  
-"Harbour"的词根来自于古英语"herebeorg"，意为"军队的庇护所"，后来演化为中古英语的"hærberge"，意思是"住所"，以至于现在我们用它来指港口，因为对船只来说，港口是他们的"庇护所"或者"住所"。
+1.  The ship sought refuge in the harbour during the storm.  
+    (风暴期间，船只在港湾内寻求庇护。)
+2.  The police suspect that he is harbouring a criminal.  
+    (警方怀疑他在窝藏罪犯。)
+3.  She harbours a secret desire to be a famous actress.  
+    (她心中暗自怀有一个成为著名演员的愿望。)
 
   
 
-**词缀分析**  
-"Harbour"没有词缀。它是一个单词的完完整整的形式。
+### 词根分析
 
   
 
-**发展历史和文化背景**  
-"Harbour"这个词在英语中的使用可以追溯到14世纪。嗣后, 与海洋贸易和旅行的发展，这个词越来越频繁地出现在日常生活和文学作品中。
+“Harbour”中的"harbour"是一个完整的词根，形成了"harbourage"和"harbourless"这样的派生单词。
 
   
 
-**单词变形**
+### 词缀分析
 
   
 
-1.  Harbours (复数形式)
-2.  Harboured (过去式和过去分词)
-3.  Harbouring (现在分词)
+"Harbour"中没有前缀和后缀。但可以加后缀 "-age" 形成 "harbourage"（停泊费用），或者后缀 "-less" 形成 "harbourless"（无港的）。
 
   
 
-**记忆辅助**  
-想象一下，"Harbour"这个词像是一个看起来像"Harbor"的大船，它能够在任何的内海或港口"berth"。所以，"Harbour"就是一个船可以停靠的地方。
+### 发展历史和文化背景
 
   
 
-**小故事**  
-In the ancient city, people used to trade goods at the harbour under the morning sun. By noon, the harbour was bustling with energy and activity. (在古城里，人们习惯于在早晨的阳光下在港口交易物品。到了中午，港口充满了活力和活动。)
+“harbour”这个单词来源于古英语"herebeorg"，意思是"住处或避风处"，这体现了早期海上航行者对安全避风港口的需求。
 
   
 
-希望这样能帮助您更加深入地理解务"Harbour"这个单词的含义！
+### 单词变形
+
+  
+
+除了名词和动词形式，"harbour" 还可以形成形容词 "harbourless"（无港的）和 "harbourage"（停泊费用）。
+
+  
+
+### 记忆辅助
+
+  
+
+你可以通过以下联想方式记住这个单词：harbour 可以想象成"好港口"，既有"好"又有"港口"，这样可以帮助你记住它的意思。
+
+  
+
+### 小故事
+
+  
+
+Once upon a time, on a stormy night, a small ship was desperately trying to find a harbour to avoid the calamity. The captain, John, knew they're harbouring a hope that might not come true.  
+(从前，有一艘小船在风暴的夜晚中，急切地想找个港口躲避灾难。船长约翰，他知道他们怀揣着可能无法实现的希望。)

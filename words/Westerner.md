@@ -1,10 +1,10 @@
-# Westerner
+# westerner
 
 ## 分析词义
 
   
 
-*   Westerner：这个词源自英语中的“west”，指的是来自或者生活在西方（尤其是欧美）的人。
+"Westerner" 指的是来自西方（尤其是欧洲或北美洲）的人。在地理和文化意义上，它用来描述那些来自以基督教、启蒙主义和工业革命为特征的社会的人。
 
   
 
@@ -12,21 +12,9 @@
 
   
 
-1.  As a Westerner living in China, he finds the culture quite different.  
-    作为一个生活在中国的西方人，他发现文化差异非常大。
-    
-      
-    
-2.  Westerners often shake hands when they meet.  
-    西方人经常见面时握手。
-    
-      
-    
-3.  The restaurant serves a mix of Eastern and Western dishes, to cater for both locals and Westerners.  
-    这家餐厅提供东西方混合菜肴，以满足当地人和西方人的口味。
-    
-      
-    
+1.  He felt like an alien in a strange country as a westerner in the east. (作为一个在东方的西方人，他感到自己像是在一个陌生的国家里的外星人。)
+2.  Many westerners find the customs of the east mystifying. (许多西方人觉得东方的风俗习惯令人费解。)
+3.  Certain types of etiquette and behavior are expected of westerners. (人们期待西方人有某些特定的礼节和行为。)
 
   
 
@@ -34,7 +22,7 @@
 
   
 
-*   Westerner：来自"west" + "-erner"。"West"表示“西方”，"-erner"是表示人的后缀。
+词根 "west" 表示在地理方向上的西方。词根衍生单词包括：westernization（西化），westernize（使西化）等。
 
   
 
@@ -42,7 +30,7 @@
 
   
 
-*   Westerner中的 "-erner" 是后缀， 常用来表示某个地方的人，如：Londoner (伦敦人)，New Yorker（纽约人）
+"Westerner" 中的 "-er" 是后缀，通常用来表示“来自……的人”。
 
   
 
@@ -50,7 +38,7 @@
 
   
 
-*   Westerner这个单词源自西方文化对世界的划分，即以欧罗巴洲作为文化中心，将地理上的东西方设定为文化的东西方。
+"Westerner" 这个词首次出现是在19世纪，用来描述来自美国西部的开拓者。后来，随着全球化和东西方文化的交流，"Westerner" 的含义逐渐扩大，且通常用来表示来自西方文化背景，特别是欧美的人。
 
   
 
@@ -58,7 +46,10 @@
 
   
 
-*   该词作为名词，没有单复数、不同时态、形容词、副词的变形。
+*   名词复数形式：westerners
+*   形容词形式：western
+*   副词形式：west
+*   动词形式：无
 
   
 
@@ -66,7 +57,7 @@
 
   
 
-*   你可以联想到“西方牛仔”这个形象来帮助记忆这个单词。
+可以将 "Westerner" 拆分为 "West" 和 "-er"，记住 "West" 是"西方"意思，"-er" 表示这个词是名词，指的是具有某种特质的人，这样就能轻易记住这个词的意思。
 
   
 
@@ -74,5 +65,4 @@
 
   
 
-*   A Westerner visited a small Chinese village. He was surprised by the hospitality of the villagers and their authentic lifestyle. The experience made him appreciate the diversity of cultures more.
-*   一个西方人访问了中国的一个小村庄。他被村民的好客和他们的真实生活方式所惊讶。这次经历使他更加欣赏文化的多样性。
+A westerner went to a traditional tea ceremony in Japan. He was curious but respectful, keen to learn about this distinct cultural practice. (一个西方人去日本参加了一个传统的茶道仪式。他虽然好奇，但是很尊重这个独特的文化习俗，渴望学习。)

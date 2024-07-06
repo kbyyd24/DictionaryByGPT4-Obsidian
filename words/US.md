@@ -1,10 +1,10 @@
-# US
+# us
 
 ### 分析词义
 
   
 
-"US" 是 "United States" 的缩写，指的是美国。
+"Us" 是一个英语单词，它是"we"的宾语形式，用在动词或者介词后面，代表"我们"。
 
   
 
@@ -12,9 +12,9 @@
 
   
 
-1.  I live in the US. (我住在美国。)
-2.  The US is known for its cultural diversity. (美国以其文化多样性而闻名。)
-3.  The US economy is the world's largest. (美国的经济是世界上最大的。)
+1.  He gave us his phone number. (他给了我们他的电话号码。)
+2.  She sent us a postcard from Hawaii. (她从夏威夷给我们寄了一张明信片。)
+3.  The race is between us. (比赛是在我们之间。)
 
   
 
@@ -22,7 +22,7 @@
 
   
 
-“US” 是一个缩写，并没有词根。
+"Us"的词根和单词是一样的，不是由词根衍生而来的。
 
   
 
@@ -30,7 +30,7 @@
 
   
 
-由于 "US" 是一个缩写，所以并不包含词缀。
+us没有词缀，不是由词缀组合而成的。
 
   
 
@@ -38,7 +38,7 @@
 
   
 
-“US”是“United States”的简写，这个词最初的形式是“United Colonies”，由美国第二次大陆会议在1776年决定更改为“United States”。
+us是一个非常老的词，其起源可以追溯到公元之前的古英语。它在所有的欧美文化中都有相同的含义，代表"我们"。
 
   
 
@@ -46,7 +46,7 @@
 
   
 
-"US" 是省略的，没有其他形式的变化。固定搭配有 "US citizen"（美国公民），"US dollar"（美元）等。
+"Us"是"we"这个单词的宾格形式。"We"有主格、宾格和所有格。主格为"We"，宾格为"Us"，所有格为"Our"。
 
   
 
@@ -54,7 +54,7 @@
 
   
 
-想象一个大写的 "U" 和 "S"，它们代表了 "United States"，这是美国的简写，这样你就能很容易地记住它。
+"Us"的发音和拼写都非常简单，通过联想和反复听说应该不难记住。
 
   
 
@@ -62,4 +62,8 @@
 
   
 
-Story: Tom moved from France to the US. He was excited to explore this vast country with diverse cultures and landscapes. (汤姆从法国移民到美国。他对探索这个拥有丰富文化和地理风貌的广大国家感到兴奋。)
+George admires us because we are always willing to help others. He says, "This is what distinguishes us from others."
+
+  
+
+乔治因为我们总是愿意帮助他人而崇拜我们。他说：“这就是我们与他人的区别。”

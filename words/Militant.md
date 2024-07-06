@@ -1,70 +1,62 @@
-# Militant
+# militant
 
-### 分析词义
-
-  
-
-"Militant" 这个单词在英语中通常用作形容词，指的是 "激进的，好战的，准备反抗或斗争的"。也可以用作名词，表示 "好战者，斗士"。
+**单词分析**  
+"Militant"是一个英语词汇，它用作形容词和名词。作为形容词，"militant"的基本含义是"积极参与的"或"愿意为了目标而进行斗争的"。作为名词，它是指"激进分子"或"积极斗争者"。这个词常用来形容那些热衷于社会或政治改革并且愿意采取强硬手段来实现目标的人。
 
   
 
-### 列举例句
+**例句**
 
   
 
-1.  The militant group claimed responsibility for the bombing. （激进的团体声称对爆炸事件负责。）
-2.  He has a militant attitude towards the new regulation. （他对新的规定采取了激进的态度。）
-3.  The activists became more militant after the government's refusal to acknowledge their demands. （政府拒绝承认他们的要求后，行动人士变得更激进了。）
+1.  As a militant vegetarian, she refuses to eat at restaurants that serve meat.  
+    作为一个激进的素食主义者，她拒绝在供应肉食的餐馆吃饭。
+    
+      
+    
+2.  The government is taking steps to curb the actions of militant groups.  
+    政府正在采取措施打击激进团体的行动。
+    
+      
+    
+3.  He is a militant advocate for animal rights.  
+    他是动物权益的激进倡导者。
+    
+      
+    
 
   
 
-### 词根分析
+**词根分析**  
+"Militant"这个词源自拉丁词"militare"，意为“作战”，还衍生出其他一些像是 'military'(军事的)和 'militia'(民兵)一样的单词。
 
   
 
-"Militant" 的词根是来自拉丁语的 milit-, 它意味着 "士兵，战士"。相关词有 "military"(军事的)，"militia"(民兵)。
+**词缀分析**  
+"Militant"由词根“milit-”（意为战斗）和后缀“-ant”（用于形容词和名词，表明某种趋势或表现）组成。
 
   
 
-### 词缀分析
+**历史发展和文化背景**  
+"Militant"一词首次出现在英语中是在15世纪，主要用于指代“好战的”，“好斗的"。它直接来自拉丁词“militantem”，意为“战斗”。
 
   
 
-"militant"这个词的中缀 -ant 表示形容词和名词, 常常用于形容"具有特定性质的人或事物"。像 "defiant"（挑衅的） 和 "servant"（仆人）都用到了这个词缀。
+**单词变形**
 
   
 
-### 发展历史和文化背景
+1.  形容词：militant（好斗的）
+2.  名词：militant（激进分子）
+3.  副词：militantly（激进地）
 
   
 
-"Militant" 这个词起源于14世纪的法语，最初的含义比较文雅，指"服务于军队的，军人的"。然而，随着历史的发展，在19世纪中叶，"militant"开始带有激进和好战的含义。
+**记忆辅助**  
+你可以通过“milit-”，即词根的“战斗”含义，来记忆这个词，再将它与"ant"（蚂蚁）连接起来，形象地想象一只为了觅食奋力战斗的蚂蚁，来帮助记忆这个词。
 
   
 
-### 单词变形
-
-  
-
-作为形容词和名词，"militant" 没有变形。然而，它可以和其他单词组合形成固定搭配，例如 "militant group" (激进团体) "militant protester" (激进的抗议者) 等。
-
-  
-
-### 记忆辅助
-
-  
-
-你可以把 "militant" 记忆成 "military ant"（军事蚂蚁），这样好记又形象，我们知道蚂蚁是非常有组织性，善于战斗的生物。
-
-  
-
-### 小故事
-
-  
-
-The militant cat wouldn't share his toy with the other cats.  
-（这只好斗的猫不愿意和其他的猫分享他的玩具。）
-
-  
-
-希望这个分析可以帮助你理解和记忆 "militant" 这个单词。
+**小故事**  
+Tom was a militant animal rights activist. He would stand outside the fur shop, no matter how harsh the weather, holding a sign that read "Fur is murder."  
+汤姆是一名激进的动物权益活动家。无论天气多么恶劣，他都会站在毛皮店外，手举着写有"毛皮即谋杀"的标语牌。

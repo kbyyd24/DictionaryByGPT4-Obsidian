@@ -1,10 +1,10 @@
-# Health
+# health
 
 ### 分析词义
 
   
 
-“Health”是一个名词，意思是健康，是指一个人的身体条件或状况。健康可以是身体的，如：身体健康；也可以是精神的，如：精神健康。反之，疾病和不适就可能影响健康。
+"Health" 是名词，主要指健康，亦指健康状况，包括身体、精神和社交等各方面。
 
   
 
@@ -12,9 +12,9 @@
 
   
 
-1.  Physical health is as essential as intellectual health. (身体健康与智力健康同样重要。)
-2.  Good nutrition is fundamental to good health. (良好的营养是身体健康的基础。)
-3.  You should pay attention to your mental health. (你应该注意你的精神健康。)
+*   Your health is the most important thing in your life.（你的健康是生活中最重要的事情。）
+*   I have full health coverage in my insurance.（我的保险包括全面的健康险。）
+*   Mental health is just as significant as physical health.（精神健康和身体健康同样重要。）
 
   
 
@@ -22,7 +22,7 @@
 
   
 
-“Health”来自于古英语“hælþ”，含义是整体的或者完整的。
+"Health" 的词根是 Old English "hǣlþ"，意为“完整”、“完全的”或“健康的”。
 
   
 
@@ -30,7 +30,7 @@
 
   
 
-“Health”没有前缀或者后缀，是一个单根词。
+"Health" 没有词缀。
 
   
 
@@ -38,7 +38,7 @@
 
   
 
-“Health”是一个自古英语时期就开始使用的单词，它象征着完整和无缺陷。在现代英语中，“health”是指个体的全方位健康。
+"Health" 这个词在英语中使用已有很长时间，源自古英语 "hǣlu"，意为“健康”、“安全”或“幸福”。在欧美文化中，"health" 是非常重要的主题，包括身体健康，心理健康等。
 
   
 
@@ -46,7 +46,7 @@
 
   
 
-此单词没有明显的变形，但有一些相关的表达方式，例如：healthy (健康的)、healthier (更健康的)、healthiest (最健康的)、healthily (健康地)。
+"Health" 的形容词形式是 "healthy"（健康的），副词形式是 "healthily"（健康地）。
 
   
 
@@ -54,7 +54,7 @@
 
   
 
-"Health"的发音与"wealth"相似，你可以将这两个词放在一起记忆，如：“Health is wealth.”(健康就是财富。)
+"Health" 和 "heal"（治愈）发音类似，可以帮助记忆。
 
   
 
@@ -62,4 +62,4 @@
 
   
 
-Once there was a very healthy boy named Tom. He always remembered that health is greater than wealth. 他是个健康的男孩，名叫Tom，他总是记得健康胜过财富。
+Michael understood the importance of health as he grew older. He realized that he needed to take care of his body and mind to live a healthy life.（Michael 随着年龄的增长，理解了健康的重要性。他意识到要过上健康的生活，他需要照顾好自己的身体和心灵。）

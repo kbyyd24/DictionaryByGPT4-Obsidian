@@ -1,15 +1,10 @@
-# Survey
+# survey
 
 ### 分析词义
 
   
 
-"Survey" 是一个英语词汇，主要有两种含义：
-
-  
-
-1.  作为名词，它指的是对一事物或情况进行全面的观察、检查或评估，常常结合问卷形式。例如，“市场调研”（Market Survey）。
-2.  作为动词，它表示进行审视、测量或检查，如“测绘土地”（Survey the Land）。
+"Survey"一词有多种用法，可以作为名词，也可以作为动词。当它是名词时，它通常意味着"调查"或"测验"，是收集大量信息的一种方式。它也可表示"概述"或"总览"的意思。作为动词时，它的意思是"调查"、"审视"或"测量"。
 
   
 
@@ -17,17 +12,37 @@
 
   
 
-1.  "I am conducting a survey on consumer behavior." （我正在对消费者行为进行调研。）
-2.  "The survey of the building revealed some structural issues." （对这座建筑物的调查揭示了一些结构问题。）
-3.  "The teacher surveyed the classroom and found that no one is absent today." （老师查看了教室，发现今天没有人缺席。）
+1.  The government is conducting a survey to understand public opinion on the new tax reforms.  
+    政府正在进行一项调查，以了解公众对新的税收改革的看法。
+    
+      
+    
+2.  From the hilltop, he surveyed the landscape with a satisfied smile.  
+    他站在山顶上，满意地审视着风景。
+    
+      
+    
+3.  They surveyed the damage caused by the storm.  
+    他们调查了风暴造成的损害。
+    
+      
+    
 
   
 
-### 词根词缀分析
+### 词根分析
 
   
 
-"Survey" 来自中古英语 "surveyen"，含义为“查看”。它由前缀 "sur-" 和动词 "vey" 组成，其中 "sur-" 表示“超过”， "vey" 则源于拉丁语 "videre"，意为“看”。
+"Survey"起源于拉丁词根"super-"（意为“超过，以上”）和"videre"（意为“看”），与它一起诞生的还有如"supervise"(监督)、"supervisor"(督导)等词。
+
+  
+
+### 词缀分析
+
+  
+
+"Survey"的词缀，包括前缀“sur-”，表示超过，以及动词词根“-vey”，意味着看待、视察。具有相同词缀的单词还有"convey"（传递）, "purvey"（供应）等。
 
   
 
@@ -35,7 +50,7 @@
 
   
 
-"Survey" 一词始于中古英语，随着英语的发展，其用法和含义也越来越丰富且常用，如今在学术研究、市场分析等领域中十分常见。
+"Survey"一词起源于14世纪的法语，最初的意思是"超越视线"，后来发展为"观察"和"检查"的意思。在欧美文化中，"survey"是一种重要的数据收集方法，对于科研、市场分析和民意测验等领域的发展起到了重要作用。
 
   
 
@@ -43,16 +58,11 @@
 
   
 
-"Survey" 的动词形式有:
-
-  
-
-*   现在分词： Surveying（测绘、审视）
-*   过去式和过去分词：Surveyed（被调查、被观察）
-
-  
-
-"Survey" 的名词复数形式为 "Surveys"。
+*   名词复数形式：surveys
+*   非第三人称单数动词形式：survey
+*   第三人称单数动词形：surveys
+*   过去式和过去分词形式: surveyed
+*   现在分词、动名词形式: surveying
 
   
 
@@ -60,7 +70,7 @@
 
   
 
-“Survey”与"view"的意思相近，体现在对事物的观察、检查上，你可以将它们关联起来记忆。
+\-"Survey"和"supervise"同源，都来自“super-”+“view”。想象你站在高处，有"超级视力"，可以"监督"一切，或者"调查"下面的景象。
 
   
 
@@ -68,4 +78,8 @@
 
   
 
-"John is a land surveyor. One day, he was assigned to survey a wide area of land for a construction project. He surveyed meticulously, ensuring the accuracy of every detail." （约翰是个土地测量员。有一天，他被指派去测量一大片土地，用于一个建筑项目。他非常仔细地进行测量，以确保每个细节的准确性。）
+The city mayor stood at the hilltop, surveyed the cityscape below. He was conducting a survey, gathering opinions for his re-election campaign.
+
+  
+
+城市市长站在山顶上，俯瞰城市景象。他正在进行一项调查，为他的连任活动收集意见。

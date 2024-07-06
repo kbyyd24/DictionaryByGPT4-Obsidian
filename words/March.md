@@ -1,72 +1,50 @@
-# March
+# march
 
-### 分析词义
-
-  
-
-"March"是英文中的一个月份，对应中文的“三月”。也常见作为动词使用，意为“行进”，尤其指军事性的行列、队伍前进。
+**1\. 单词解析**  
+"March"作为名词用法时，主要有两个含义，一是指"三月"，二是指"行军"或者"游行"。作为动词，它的意思是"行走"或者"行进"。
 
   
 
-### 列举例句
+**2\. 例句**  
+(1) I visited Tokyo in March. (我在三月份访问了东京。)  
+(2) They marched through the city to protest against the cuts. (他们游行穿过全城，对削减预算表示抗议。)  
+(3) The soldiers were marching to the beat. (士兵们按着节拍行走。)
 
   
 
-*   March is the third month of the year. (三月是一年中的第三个月。)
-*   The soldiers march with precision. (士兵们行进得精准有序。)
-*   The protestors will march on the city center. (抗议者们将向市中心行进。)
+**3\. 词根分析**  
+"March"来自于拉丁词"Martius"，是指火星神“Mars”，它因为三月是罗马历年的开始，也就是战争开始的时间，所以用战神来命名。
 
   
 
-### 词根分析
+**4\. 词缀分析**  
+“March”给出的是原词形态，没有过多的词缀前后缀形态。
 
   
 
-动词 "march" 来源于拉丁语 "Marcius"，原意是"步伐一致的向前走"。
+**5\. 发展历史和文化背景**  
+"March"最早可以追溯到公元前8世纪时的罗马历，最开始十二个月份都有名字，而"Martius"就是其中之一。罗马历十个月制中，“Martius”是第一月，因此被视为元旦或新的一年的开始。
 
   
 
-### 词缀分析
+**6\. 单词变形**  
+过去式和过去分词形式："marched"  
+现在进行时："marching"  
+常见的固定搭配有：“march to the beat”（按照节拍前进）
 
   
 
-"March" 作为一个月份和动词，没有词缀。
+**7\. 记忆辅助**  
+把“March”和“三月”、“行走”、“行军”在脑海中形象地联接起来，比如设想一支军队在三月的清晨出发，整齐划一地行军。
 
   
 
-### 发展历史和文化背景
+**8\. 小故事**
 
   
 
-“March”作为月份的名字来源于古罗马时期，这个月是献给战神 Mars（马尔斯）的，因此得名 "Martius"，也就是“Mars 的月份”。在罗马历法中，March 是年中的第一个月份。这在后来被现代格里历法规定为一年里的第三个月。
+Tom decided to go on a march for peace in his city during March. Despite the cold weather, the warmth in his heart kept him moving forwards.
 
   
 
-### 单词变形
-
-  
-
-作为动词的 "march" 的不同形态如下：
-
-  
-
-*   过去式：marched（行进了）
-*   现在分词：marching（正在行进）
-*   动名词：marching（行进）
-
-  
-
-### 记忆辅助
-
-  
-
-产生一个联想：月份 “March” 你可以联想到春天的来临，万物复苏的开始，或者想象士兵们在新的一年中的第一个春天进行的修行。
-
-  
-
-### 小故事
-
-  
-
-Every spring, in March, the cherry blossoms in the park paint a picture of ethereal beauty. As a harmony of soft pinks and whites unfolds, people from all walks of life march into the park, cameras in hand, eyes filled with appreciation.  
-(每年春天，也就是三月，公园里的樱花盛开，宛如人间仙境。温婉的粉色和洁白交织出和谐的画面，来自各行各业的人们都会走进公园，手中拿着相机，眼中满含赞赏之情。)
+汤姆决定在三月的时候为他的城市的和平进行游行。尽管天气很冷，但他心中的热情让他继续前行。

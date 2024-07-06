@@ -1,16 +1,10 @@
-# There
+# there
 
 ### 分析词义
 
   
 
-"There" 是一个英语单词，根据上下文的不同，其含义也不同。 主要有以下几种用法：
-
-  
-
-1.  表示某个地点或方向，例如 "The book is over there." （书在那边）;
-2.  作为虚词，突出某人或某物，例如 "There is a book on the table." （桌子上有一本书）;
-3.  用在动词后面，表示动作的结果或目的，例如 "Put it there." （把它放那里）;
+"There" 是一个英语副词，主要用于指示地点，表示"在那里"，另外也常常用于引出主题或话题，起到强调的作用。
 
   
 
@@ -18,17 +12,25 @@
 
   
 
-1.  "The cinema is over there."（电影院就在那边。）
-2.  "There are many flowers in the garden."（花园里有很多花。）
-3.  "Please, sit there." （请坐在那里）。
+1.  Look over there. 看那边。
+2.  I have never been there before. 我以前从未去过那里。
+3.  There you go! 就是这样！
 
   
 
-### 词根和词缀分析
+### 词根分析
 
   
 
-"There" 是一个简单词，即单词本身就是词根，没有词缀。
+单词 "there" 是一个基本的英语单词，没有特定的词根。
+
+  
+
+### 词缀分析
+
+  
+
+单词 "there" 也没有特定的词缀。
 
   
 
@@ -36,7 +38,7 @@
 
   
 
-"There"源自古英语的 - "þaer" ，意为"在那个地方"。在语言的发展过程中，"there" 不仅用来指示地点，也逐渐发展为虚词，用来突出主语。
+"There" 是最基础的英语词汇之一，源自古英语 "þǣr"。
 
   
 
@@ -44,7 +46,7 @@
 
   
 
-"There"没有具体的变形形式。但是和"there"常常组成固定词组的单词有很多，例如"there is"（有），"there are"（有很多），"there goes"（那去了）等。
+"there" 没有名词、动词和形容词的变形。在搭配上，"there" 常常和be动词一起使用，构成"there is/are"结构，表示某处存在某物。
 
   
 
@@ -52,7 +54,7 @@
 
   
 
-你可以将“There”与“那里”相联系，因为它们在许多情况下都可以表示某个地点。此外，常见的短语 "There is" 和 "There are" 可以联想到 "有" "存在"，帮助记忆。
+"There" 是英语中使用频繁的单词，通过频繁在口语和书面语中使用，可以帮助记忆。此外，"here" 和 "where" 都和 "there" 押韵，可以通过押韵词建立联系帮助记忆。
 
   
 
@@ -60,8 +62,5 @@
 
   
 
-"Look! There is a bird in the tree." Mary pointed to the tall tree in the garden. "Let's go there and take a closer look."
-
-  
-
-翻译： “看！树上有一只鸟。”玛丽指着花园里的高树说。“我们过去看看。”
+Every day, there is a little squirrel that comes to the park, looking for the nuts it buried. There, under the old oak tree, it finally finds its treasure.  
+每天，都有一只小松鼠来到公园，寻找它埋藏的坚果。在那个老橡树下，它终于找到了自己的宝藏。
