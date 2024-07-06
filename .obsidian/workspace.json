@@ -6,6 +6,7 @@
       {
         "id": "1b43d561184c07de",
         "type": "tabs",
+        "dimension": 25.500625782227786,
         "children": [
           {
             "id": "c993d953a351c412",
@@ -26,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dashboard.md",
+                "file": "words/abstract.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -35,6 +36,26 @@
           }
         ],
         "currentTab": 1
+      },
+      {
+        "id": "e5c8fb819cd242d5",
+        "type": "tabs",
+        "dimension": 74.49937421777221,
+        "children": [
+          {
+            "id": "6d1c98640bd3c6f3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "readme.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -100,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dashboard.md",
+                "file": "readme.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Dashboard.md",
+                "file": "readme.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dashboard.md"
+                "file": "readme.md"
               }
             }
           }
@@ -163,16 +184,18 @@
       "smart-random-note:Open Random Note from Search": false
     }
   },
-  "active": "93f05bda4d0ec5c5",
+  "active": "6d1c98640bd3c6f3",
   "lastOpenFiles": [
-    "words/persevere.md",
+    "words/abstract.md",
+    "words/abbreviate.md",
+    "readme.md",
+    "abstract unlinked metions.png",
     "Dashboard.md",
+    "words/persevere.md",
     "words/migration.md",
     "words/electronic.md",
     "words/deviation.md",
     "words/abnormally.md",
-    "words/abstract.md",
-    "words/abbreviate.md",
     "words/expert.md",
     "words/esthetic.md",
     "words/absent.md",
