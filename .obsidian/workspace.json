@@ -13,14 +13,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "words/a.md",
+                "file": "words/abstract.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "93f05bda4d0ec5c5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Dashboard.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -49,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "abstr",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -86,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "words/a.md",
+                "file": "Dashboard.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "words/a.md",
+                "file": "Dashboard.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "words/a.md"
+                "file": "Dashboard.md"
               }
             }
           }
@@ -149,13 +163,23 @@
       "smart-random-note:Open Random Note from Search": false
     }
   },
-  "active": "c993d953a351c412",
+  "active": "93f05bda4d0ec5c5",
   "lastOpenFiles": [
-    "words/a..md",
+    "words/persevere.md",
+    "Dashboard.md",
+    "words/migration.md",
+    "words/electronic.md",
+    "words/deviation.md",
+    "words/abnormally.md",
+    "words/abstract.md",
+    "words/abbreviate.md",
+    "words/expert.md",
+    "words/esthetic.md",
+    "words/absent.md",
     "words/a.md",
+    "words/a..md",
     "words/a.m..md",
     "words/dictator.md",
-    "words/persevere.md",
     "words/step.md",
     "words/great.md",
     "words/recession.md",
