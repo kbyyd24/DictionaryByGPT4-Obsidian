@@ -27,5 +27,5 @@
 
 原有数据中已经为一些单词列出了关联单词，但并不是 obsidian 的双链。可以利用 `Unlinked metions` 来查找这些单词的引用并添加 link，以 abstract 为例：
 
-![[abstract unlinked metions.png]]
+![](abstract-unlinked-metions.png)
 点击 link 后即可建立双链，方便将来查看。
